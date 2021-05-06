@@ -22,7 +22,7 @@ setup(
     license='TODO: License declaration',
     tests_require=['pytest'],
     entry_points={
-        'console_scripts': ["teko =iti_lab4.teko:main"
+        'console_scripts': ["teko =iti_lab4.brodcast_lidar_transform:main"
         ],
     },
 )
