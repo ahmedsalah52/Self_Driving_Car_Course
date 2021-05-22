@@ -26,7 +26,7 @@ class Data:
         
 class my_client(Node):
     def __init__(self):
-        super().__init__("node")
+        super().__init__("node2")
         self.sensor_data = Data()
 
         self.counter = 0
