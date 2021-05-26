@@ -1,0 +1,934 @@
+label_id, 1,confidence,  +70.09,Position,  +17.29,   +0.53,   -0.65,pos_covariance,  +60.48,   +1.74,   -2.30,   +0.05,   -0.07,   +0.09,velocity,   -2.31,   -1.62,   -0.26
+,speed 8.0281
+label_id, 1,confidence,  +72.85,Position,  +16.06,   +0.22,   -0.60,pos_covariance,  +45.06,   +0.59,   -1.68,   +0.01,   -0.02,   +0.07,velocity,   -1.49,   -0.19,   +0.17
+,speed 2.2851
+label_id, 1,confidence,  +70.17,Position,  +15.73,   +0.15,   -0.63,pos_covariance,  +41.41,   +0.35,   -1.66,   +0.01,   -0.01,   +0.07,velocity,   -1.51,   -0.24,   +0.25
+,speed 2.4002
+label_id, 3,confidence,  +71.77,Position,  +12.14,   +0.22,   -0.73,pos_covariance,  +14.77,   +0.27,   -0.89,   +0.01,   -0.02,   +0.06,velocity,   -2.16,   +0.46,   +0.74
+,speed 5.4248
+label_id, 3,confidence,  +74.34,Position,  +12.23,   +0.40,   -0.65,pos_covariance,  +15.48,   +0.54,   -0.79,   +0.02,   -0.03,   +0.04,velocity,   +0.83,   +0.79,   +0.34
+,speed 1.4286
+label_id, 3,confidence,  +75.35,Position,  +11.62,   +0.53,   -0.47,pos_covariance,  +12.29,   +0.58,   -0.49,   +0.03,   -0.02,   +0.02,velocity,   -0.94,   +0.58,   +0.50
+,speed 1.47
+label_id, 3,confidence,  +77.63,Position,  +10.76,   +0.70,   -0.49,pos_covariance,   +9.08,   +0.61,   -0.43,   +0.04,   -0.03,   +0.02,velocity,   -1.71,   +0.49,   +0.02
+,speed 3.1645999999999996
+label_id, 3,confidence,  +76.43,Position,  +10.10,   +0.84,   -0.49,pos_covariance,   +7.04,   +0.59,   -0.35,   +0.05,   -0.03,   +0.02,velocity,   -2.02,   +0.47,   -0.12
+,speed 4.3157000000000005
+label_id, 3,confidence,  +78.99,Position,   +9.42,   +1.03,   -0.50,pos_covariance,   +5.31,   +0.59,   -0.29,   +0.07,   -0.03,   +0.02,velocity,   -2.11,   +0.66,   -0.02
+,speed 4.8881
+label_id, 3,confidence,  +79.81,Position,   +8.60,   +1.27,   -0.47,pos_covariance,   +3.69,   +0.55,   -0.20,   +0.08,   -0.03,   +0.01,velocity,   -2.17,   +0.55,   +0.37
+,speed 5.1483
+label_id, 3,confidence,  +84.47,Position,   +8.13,   +1.39,   -0.47,pos_covariance,   +2.96,   +0.51,   -0.17,   +0.09,   -0.03,   +0.01,velocity,   -2.18,   +0.51,   +0.21
+,speed 5.056600000000001
+label_id, 3,confidence,  +86.37,Position,   +7.18,   +1.62,   -0.45,pos_covariance,   +1.79,   +0.41,   -0.11,   +0.09,   -0.03,   +0.01,velocity,   -2.20,   +0.52,   +0.11
+,speed 5.122500000000001
+label_id, 3,confidence,  +85.69,Position,   +6.25,   +1.74,   -0.46,pos_covariance,   +1.03,   +0.29,   -0.08,   +0.08,   -0.02,   +0.01,velocity,   -2.09,   +0.47,   -0.01
+,speed 4.589099999999999
+label_id, 3,confidence,  +85.23,Position,   +5.69,   +1.80,   -0.45,pos_covariance,   +0.71,   +0.23,   -0.06,   +0.07,   -0.02,   +0.00,velocity,   -2.04,   +0.33,   +0.21
+,speed 4.3146
+label_id, 3,confidence,  +88.56,Position,   +5.01,   +1.87,   -0.45,pos_covariance,   +0.42,   +0.16,   -0.04,   +0.06,   -0.01,   +0.00,velocity,   -2.14,   +0.24,   -0.02
+,speed 4.6376
+label_id, 3,confidence,  +88.74,Position,   +4.27,   +1.93,   -0.43,pos_covariance,   +0.22,   +0.10,   -0.02,   +0.05,   -0.01,   +0.00,velocity,   -2.23,   +0.15,   +0.08
+,speed 5.0018
+label_id, 5,confidence,  +70.07,Position,  +13.14,   +2.49,   -0.21,pos_covariance,  +20.30,   +3.85,   -0.32,   +0.73,   -0.06,   +0.01,velocity,   -2.28,   +0.33,   +0.17
+,speed 5.3362
+label_id, 3,confidence,  +90.41,Position,   +3.60,   +1.94,   -0.42,pos_covariance,   +0.11,   +0.06,   -0.01,   +0.03,   -0.01,   +0.00,velocity,   -2.00,   +0.16,   +0.02
+,speed 4.026
+label_id, 2,confidence,  +75.19,Position,  +18.93,   -3.49,   -0.45,pos_covariance,  +87.38,  -16.06,   -2.14,   +2.95,   +0.39,   +0.06,velocity,   -0.01,   -0.09,   -0.13
+,speed 0.0251
+label_id, 5,confidence,  +71.18,Position,   +9.68,   +1.87,   -0.24,pos_covariance,   +5.96,   +1.15,   -0.15,   +0.22,   -0.03,   +0.00,velocity,   -6.80,   -1.27,   -0.24
+,speed 47.9105
+label_id, 3,confidence,  +92.11,Position,   +2.77,   +1.94,   -0.41,pos_covariance,   +0.04,   +0.03,   -0.01,   +0.02,   -0.00,   +0.00,velocity,   -1.93,   +0.15,   +0.01
+,speed 3.7475
+label_id, 6,confidence,  +74.74,Position,  +18.75,   +3.90,   -0.23,pos_covariance,  +84.18,  +17.59,   -1.10,   +3.68,   -0.23,   +0.02,velocity,   -2.25,   -0.44,   -0.24
+,speed 5.3137
+label_id, 2,confidence,  +76.41,Position,  +18.93,   -3.46,   -0.38,pos_covariance,  +87.40,  -15.90,   -1.74,   +2.90,   +0.32,   +0.04,velocity,   +0.01,   +0.09,   -0.26
+,speed 0.0758
+label_id, 5,confidence,  +72.47,Position,   +9.44,   +1.88,   -0.16,pos_covariance,   +5.38,   +1.07,   -0.09,   +0.22,   -0.02,   +0.00,velocity,   -3.26,   +0.09,   -0.14
+,speed 10.6553
+label_id, 3,confidence,  +90.90,Position,   +2.12,   +1.77,   -0.41,pos_covariance,   +0.01,   +0.01,   -0.00,   +0.01,   -0.00,   +0.00,velocity,   -1.59,   +0.17,   +0.06
+,speed 2.5606000000000004
+label_id, 5,confidence,  +72.47,Position,   +9.05,   +1.87,   -0.15,pos_covariance,   +4.57,   +0.94,   -0.08,   +0.19,   -0.02,   +0.00,velocity,   -3.21,   +0.09,   +0.10
+,speed 10.3222
+label_id, 6,confidence,  +73.77,Position,  +18.75,   +4.21,   -0.29,pos_covariance,  +84.18,  +18.97,   -1.28,   +4.28,   -0.29,   +0.02,velocity,   +0.00,   +0.84,   +0.36
+,speed 0.8351999999999999
+label_id, 2,confidence,  +76.65,Position,  +18.93,   -3.36,   -0.37,pos_covariance,  +87.63,  -15.46,   -1.65,   +2.73,   +0.29,   +0.04,velocity,   +0.05,   +0.22,   +0.35
+,speed 0.1734
+label_id, 3,confidence,  +92.50,Position,   +1.80,   +1.50,   -0.41,pos_covariance,   +0.01,   +0.01,   -0.00,   +0.00,   -0.00,   +0.00,velocity,   -1.02,   +0.21,   +0.04
+,speed 1.0861
+label_id, 5,confidence,  +72.47,Position,   +8.76,   +1.85,   -0.14,pos_covariance,   +4.00,   +0.85,   -0.07,   +0.18,   -0.01,   +0.00,velocity,   -3.16,   +0.11,   -0.00
+,speed 9.997700000000002
+label_id, 4,confidence,  +70.43,Position,  +17.99,   +1.91,   -0.25,pos_covariance,  +71.32,   +7.56,   -0.99,   +0.81,   -0.11,   +0.02,velocity,   -2.09,   +0.60,   +0.10
+,speed 4.738099999999999
+label_id, 6,confidence,  +70.51,Position,  +18.75,   +4.50,   -0.27,pos_covariance,  +84.19,  +20.28,   -1.14,   +4.89,   -0.28,   +0.02,velocity,   +0.04,   +0.99,   +0.14
+,speed 1.0013
+label_id, 2,confidence,  +78.74,Position,  +18.94,   -3.24,   -0.33,pos_covariance,  +87.62,  -14.91,   -1.47,   +2.54,   +0.25,   +0.03,velocity,   +0.06,   +0.34,   +0.23
+,speed 0.17210000000000003
+label_id, 3,confidence,  +92.22,Position,   +1.79,   +1.44,   -0.41,pos_covariance,   +0.01,   +0.01,   -0.00,   +0.00,   -0.00,   +0.00,velocity,   -0.32,   +0.24,   +0.03
+,speed 0.16090000000000002
+label_id, 5,confidence,  +72.47,Position,   +8.40,   +1.84,   -0.13,pos_covariance,   +3.39,   +0.74,   -0.05,   +0.16,   -0.01,   +0.00,velocity,   -3.14,   +0.03,   -0.32
+,speed 9.9629
+label_id, 7,confidence,  +72.07,Position,  +16.25,   +6.72,   -0.19,pos_covariance,  +47.53,  +19.65,   -0.56,   +8.13,   -0.23,   +0.01,velocity,   -2.19,   +0.44,   -0.54
+,speed 5.2813
+label_id, 4,confidence,  +73.04,Position,  +17.60,   +2.13,   -0.24,pos_covariance,  +64.67,   +7.83,   -0.98,   +0.95,   -0.12,   +0.02,velocity,   -2.16,   +0.37,   -0.61
+,speed 5.1746
+label_id, 6,confidence,  +73.29,Position,  +18.75,   +4.87,   -0.24,pos_covariance,  +84.09,  +21.94,   -1.22,   +5.73,   -0.32,   +0.02,velocity,   +0.02,   +0.93,   -0.55
+,speed 1.1678000000000002
+label_id, 2,confidence,  +80.93,Position,  +18.95,   -3.09,   -0.26,pos_covariance,  +87.83,  -14.25,   -1.31,   +2.32,   +0.21,   +0.02,velocity,   +0.02,   +0.26,   -0.62
+,speed 0.4524
+label_id, 3,confidence,  +90.55,Position,   +1.85,   +1.54,   -0.38,pos_covariance,   +0.01,   +0.01,   -0.00,   +0.01,   -0.00,   +0.00,velocity,   +0.13,   +0.11,   +0.10
+,speed 0.03900000000000001
+label_id, 5,confidence,  +72.47,Position,   +8.05,   +1.82,   -0.09,pos_covariance,   +2.86,   +0.65,   -0.03,   +0.15,   -0.01,   +0.00,velocity,   -3.13,   +0.08,   +0.08
+,speed 9.809699999999998
+label_id, 7,confidence,  +73.55,Position,  +16.18,   +6.65,   -0.22,pos_covariance,  +46.34,  +19.05,   -0.60,   +7.83,   -0.25,   +0.01,velocity,   -0.85,   -0.39,   +0.18
+,speed 0.9069999999999999
+label_id, 4,confidence,  +70.52,Position,  +17.62,   +2.39,   -0.21,pos_covariance,  +65.65,   +8.96,   -0.71,   +1.23,   -0.10,   +0.01,velocity,   -0.68,   +0.69,   +0.32
+,speed 1.0409
+label_id, 6,confidence,  +71.42,Position,  +18.74,   +5.29,   -0.23,pos_covariance,  +83.73,  +23.71,   -0.93,   +6.72,   -0.26,   +0.01,velocity,   -0.04,   +1.16,   +0.33
+,speed 1.4561
+label_id, 2,confidence,  +81.65,Position,  +18.88,   -2.99,   -0.20,pos_covariance,  +86.08,  -13.60,   -0.84,   +2.15,   +0.13,   +0.01,velocity,   -0.15,   +0.34,   +0.42
+,speed 0.3145
+label_id, 3,confidence,  +89.54,Position,   +2.00,   +1.79,   -0.36,pos_covariance,   +0.01,   +0.01,   -0.00,   +0.01,   -0.00,   +0.00,velocity,   +0.39,   +0.54,   +0.05
+,speed 0.44620000000000004
+label_id, 5,confidence,  +72.47,Position,   +7.78,   +1.81,   -0.09,pos_covariance,   +2.50,   +0.58,   -0.03,   +0.14,   -0.01,   +0.00,velocity,   -3.09,   +0.06,   -0.27
+,speed 9.624600000000001
+label_id, 8,confidence,  +77.92,Position,  +14.38,   +8.84,   -0.24,pos_covariance,  +29.45,  +18.13,   -0.48,  +11.16,   -0.30,   +0.01,velocity,   +3.75,   +5.09,   -0.11
+,speed 39.982699999999994
+label_id, 7,confidence,  +73.35,Position,  +15.85,   +6.99,   -0.22,pos_covariance,  +42.61,  +18.86,   -0.67,   +8.35,   -0.30,   +0.01,velocity,   -1.14,   +0.40,   -0.50
+,speed 1.7096
+label_id, 4,confidence,  +72.11,Position,  +17.47,   +2.59,   -0.17,pos_covariance,  +63.26,   +9.44,   -0.66,   +1.41,   -0.10,   +0.01,velocity,   -0.63,   +0.62,   -0.49
+,speed 1.0214
+label_id, 2,confidence,  +78.53,Position,  +18.70,   -2.88,   -0.15,pos_covariance,  +83.01,  -12.74,   -0.71,   +1.96,   +0.11,   +0.01,velocity,   -0.33,   +0.33,   -0.49
+,speed 0.4579
+label_id, 6,confidence,  +71.42,Position,  +18.72,   +5.60,   -0.20,pos_covariance,  +83.67,  +25.04,   -0.88,   +7.50,   -0.26,   +0.01,velocity,   -0.00,   +1.11,   -0.51
+,speed 1.4922000000000002
+label_id, 3,confidence,  +77.57,Position,   +2.11,   +2.06,   -0.32,pos_covariance,   +0.01,   +0.01,   -0.00,   +0.01,   -0.00,   +0.00,velocity,   +0.35,   +0.68,   +0.15
+,speed 0.6074
+label_id, 5,confidence,  +72.47,Position,   +7.47,   +1.77,   -0.07,pos_covariance,   +2.12,   +0.50,   -0.02,   +0.12,   -0.00,   +0.00,velocity,   -3.02,   +0.03,   +0.08
+,speed 9.127699999999999
+label_id, 8,confidence,  +73.37,Position,  +14.55,   +9.49,   -0.24,pos_covariance,  +29.49,  +19.41,   -0.45,  +12.78,   -0.30,   +0.01,velocity,   +0.71,   +2.52,   +0.44
+,speed 7.048100000000001
+label_id, 7,confidence,  +73.04,Position,  +15.50,   +7.21,   -0.25,pos_covariance,  +39.08,  +18.24,   -0.59,   +8.52,   -0.27,   +0.01,velocity,   -1.27,   -0.07,   +0.28
+,speed 1.6962
+label_id, 4,confidence,  +73.58,Position,  +17.39,   +2.81,   -0.16,pos_covariance,  +61.98,  +10.08,   -0.50,   +1.64,   -0.08,   +0.01,velocity,   -0.47,   +0.60,   +0.35
+,speed 0.7033999999999999
+label_id, 6,confidence,  +71.11,Position,  +18.00,   +5.77,   -0.22,pos_covariance,  +71.02,  +22.83,   -0.83,   +7.34,   -0.27,   +0.01,velocity,   -0.91,   +0.86,   +0.36
+,speed 1.6972999999999998
+label_id, 2,confidence,  +81.89,Position,  +18.34,   -2.76,   -0.14,pos_covariance,  +76.60,  -11.48,   -0.51,   +1.72,   +0.08,   +0.01,velocity,   -0.58,   +0.35,   +0.33
+,speed 0.5678
+label_id, 3,confidence,  +77.57,Position,   +2.24,   +2.28,   -0.28,pos_covariance,   +0.02,   +0.02,   -0.00,   +0.02,   -0.00,   +0.00,velocity,   +0.40,   +0.69,   +0.06
+,speed 0.6396999999999999
+label_id, 5,confidence,  +72.47,Position,   +7.22,   +1.74,   -0.07,pos_covariance,   +1.84,   +0.44,   -0.02,   +0.11,   -0.00,   +0.00,velocity,   -2.96,   -0.01,   -0.12
+,speed 8.7761
+label_id, 8,confidence,  +73.41,Position,  +14.14,   +9.76,   -0.24,pos_covariance,  +26.91,  +18.61,   -0.50,  +12.87,   -0.34,   +0.01,velocity,   -0.15,   +1.63,   -0.11
+,speed 2.6914999999999996
+label_id, 7,confidence,  +73.28,Position,  +15.02,   +7.43,   -0.26,pos_covariance,  +34.60,  +17.17,   -0.61,   +8.52,   -0.31,   +0.01,velocity,   -1.36,   -0.06,   -0.20
+,speed 1.8932000000000004
+label_id, 4,confidence,  +73.20,Position,  +16.69,   +2.94,   -0.15,pos_covariance,  +52.62,   +9.33,   -0.48,   +1.66,   -0.08,   +0.01,velocity,   -0.84,   +0.46,   -0.12
+,speed 0.9315999999999999
+label_id, 6,confidence,  +73.52,Position,  +16.88,   +5.74,   -0.25,pos_covariance,  +55.10,  +18.76,   -0.87,   +6.39,   -0.30,   +0.02,velocity,   -1.71,   +0.46,   -0.18
+,speed 3.1681
+label_id, 2,confidence,  +79.10,Position,  +17.63,   -2.62,   -0.13,pos_covariance,  +65.42,   -9.68,   -0.48,   +1.44,   +0.07,   +0.01,velocity,   -1.07,   +0.29,   -0.07
+,speed 1.2339
+label_id, 8,confidence,  +73.41,Position,  +14.07,  +10.16,   -0.28,pos_covariance,  +26.63,  +19.27,   -0.51,  +13.95,   -0.37,   +0.01,velocity,   -0.17,   +1.66,   +0.36
+,speed 2.9141
+label_id, 7,confidence,  +79.38,Position,  +14.68,   +7.64,   -0.31,pos_covariance,  +31.39,  +16.38,   -0.67,   +8.55,   -0.35,   +0.02,velocity,   -1.40,   -0.02,   +0.30
+,speed 2.0504
+label_id, 6,confidence,  +72speed = 8.0281 +16.14,   +5.80,   -0.32,pos_covariance,  +45.99,  +16.48,   -0.91,   +5.91,   -0.32,   +0.02,velocity,   -1.93,   +0.41,   +0.35
+,speed 4.015499999999999
+label_id, 4,confidence,  +73.70,Position,  +16.54,   +3.13,   -0.19,pos_covariance,  +50.84,   +9.66,   -0.54,   +1.84,   -0.10,   +0.01,velocity,   -0.79,   +0.48,   +0.43
+,speed 1.0394
+label_id, 2,confidence,  +79.57,Position,  +17.15,   -2.53,   -0.17,pos_covariance,  +58.52,   -8.58,   -0.53,   +1.26,   +0.08,   +0.01,velocity,   -1.26,   +0.35,   +0.48
+,speed 1.9405000000000001
+label_id, 8,confidence,  +75.29,Position,  +12.43,   +9.61,   -0.30,pos_covariance,  +16.21,  +12.57,   -0.41,   +9.75,   -0.32,   +0.01,velocity,   -1.60,   +0.67,   -0.41
+,speed 3.1770000000000005
+label_id, 7,confidence,  +71.37,Position,  +14.01,   +7.83,   -0.30,pos_covariance,  +26.09,  +14.63,   -0.57,   +8.21,   -0.32,   +0.01,velocity,   -1.51,   +0.06,   -0.47
+,speed 2.5046
+label_id, 6,confidence,  +72.78,Position,  +14.90,   +5.77,   -0.31,pos_covariance,  +33.31,  +12.85,   -0.72,   +4.96,   -0.28,   +0.02,velocity,   -1.51,   +0.49,   -0.46
+,speed 2.7318
+label_id, 4,confidence,  +76.37,Position,  +15.41,   +3.20,   -0.16,pos_covariance,  +38.30,   +8.02,   -0.42,   +1.68,   -0.09,   +0.01,velocity,   -1.31,   +0.45,   -0.45
+,speed 2.1211
+label_id, 2,confidence,  +74.48,Position,  +15.75,   -2.30,   -0.13,pos_covariance,  +41.71,   -6.06,   -0.37,   +0.88,   +0.05,   +0.01,velocity,   -1.58,   +0.39,   -0.42
+,speed 2.8249000000000004
+label_id, 8,confidence,  +79.47,Position,  +12.13,   +9.82,   -0.32,pos_covariance,  +14.70,  +11.94,   -0.39,   +9.70,   -0.31,   +0.01,velocity,   -1.33,   +0.56,   +0.06
+,speed 2.0861
+label_id, 7,confidence,  +81.60,Position,  +13.44,   +7.91,   -0.31,pos_covariance,  +22.07,  +13.00,   -0.52,   +7.66,   -0.30,   +0.01,velocity,   -1.55,   -0.03,   +0.00
+,speed 2.4034000000000004
+label_id, 6,confidence,  +79.53,Position,  +13.98,   +5.68,   -0.33,pos_covariance,  +25.93,  +10.52,   -0.62,   +4.27,   -0.25,   +0.02,velocity,   -1.15,   +0.32,   +0.00
+,speed 1.4248999999999998
+label_id, 4,confidence,  +73.08,Position,  +15.15,   +3.34,   -0.16,pos_covariance,  +35.74,   +7.92,   -0.37,   +1.76,   -0.08,   +0.01,velocity,   -1.17,   +0.22,   -0.03
+,speed 1.4181999999999997
+label_id, 2,confidence,  +79.78,Position,  +15.24,   -2.19,   -0.12,pos_covariance,  +36.67,   -5.26,   -0.29,   +0.76,   +0.04,   +0.01,velocity,   -1.62,   +0.16,   -0.10
+,speed 2.66
+label_id, 8,confidence,  +84.08,Position,  +11.59,   +9.90,   -0.31,pos_covariance,  +12.21,  +10.47,   -0.32,   +8.97,   -0.27,   +0.01,velocity,   -1.55,   +0.51,   +0.06
+,speed 2.6662000000000003
+label_id, 7,confidence,  +81.03,Position,  +12.94,   +7.98,   -0.30,pos_covariance,  +18.97,  +11.75,   -0.43,   +7.28,   -0.26,   +0.01,velocity,   -1.65,   +0.10,   +0.05
+,speed 2.7349999999999994
+label_id, 6,confidence,  +78.27,Position,  +12.96,   +5.58,   -0.32,pos_covariance,  +19.08,   +8.19,   -0.48,   +3.52,   -0.21,   +0.01,velocity,   -0.78,   +0.48,   +0.10
+,speed 0.8488
+label_id, 4,confidence,  +71.49,Position,  +13.97,   +3.33,   -0.15,pos_covariance,  +25.82,   +6.13,   -0.28,   +1.45,   -0.07,   +0.01,velocity,   -1.78,   +0.28,   +0.06
+,speed 3.2504
+label_id, 2,confidence,  +80.22,Position,  +14.87,   -2.09,   -0.09,pos_covariance,  +33.13,   -4.63,   -0.18,   +0.65,   +0.03,   +0.00,velocity,   -1.67,   +0.28,   +0.08
+,speed 2.8737
+label_id, 8,confidence,  +80.12,Position,  +10.92,  +10.06,   -0.30,pos_covariance,   +9.60,   +8.87,   -0.27,   +8.19,   -0.25,   +0.01,velocity,   -1.72,   +0.54,   -0.24
+,speed 3.3075999999999994
+label_id, 6,confidence,  +74.90,Position,  +11.91,   +5.52,   -0.32,pos_covariance,  +13.62,   +6.33,   -0.38,   +2.94,   -0.18,   +0.01,velocity,   -0.94,   +0.55,   -0.19
+,speed 1.2222
+label_id, 7,confidence,  +79.22,Position,  +12.21,   +8.09,   -0.28,pos_covariance,  +15.04,   +9.98,   -0.36,   +6.62,   -0.24,   +0.01,velocity,   -1.79,   +0.27,   -0.26
+,speed 3.3446000000000002
+label_id, 4,confidence,  +76.21,Position,  +13.02,   +3.33,   -0.14,pos_covariance,  +19.49,   +5.01,   -0.23,   +1.29,   -0.06,   +0.00,velocity,   -1.62,   +0.40,   -0.22
+,speed 2.8328000000000007
+label_id, 2,confidence,  +82.60,Position,  +14.11,   -1.95,   -0.06,pos_covariance,  +26.83,   -3.68,   -0.12,   +0.51,   +0.02,   +0.00,velocity,   -1.59,   +0.40,   -0.19
+,speed 2.7242
+label_id, 8,confidence,  +83.39,Position,  +10.60,  +10.29,   -0.30,pos_covariance,   +8.54,   +8.31,   -0.24,   +8.09,   -0.23,   +0.01,velocity,   -1.72,   +0.84,   +0.10
+,speed 3.6739999999999995
+label_id, 7,confidence,  +86.81,Position,  +11.58,   +8.09,   -0.29,pos_covariance,  +12.16,   +8.51,   -0.30,   +5.96,   -0.21,   +0.01,velocity,   -1.97,   +0.52,   +0.08
+,speed 4.1577
+label_id, 6,confidence,  +76.15,Position,  +11.66,   +5.68,   -0.32,pos_covariance,  +12.56,   +6.16,   -0.34,   +3.02,   -0.17,   +0.01,velocity,   -1.57,   +0.65,   +0.09
+,speed 2.8955
+label_id, 4,confidence,  +73.96,Position,  +12.27,   +3.40,   -0.15,pos_covariance,  +15.34,   +4.28,   -0.19,   +1.20,   -0.05,   +0.00,velocity,   -1.43,   +0.62,   +0.09
+,speed 2.4374
+label_id, 2,confidence,  +83.76,Position,  +13.56,   -1.81,   -0.06,pos_covariance,  +22.86,   -3.02,   -0.09,   +0.40,   +0.01,   +0.00,velocity,   -1.43,   +0.62,   +0.08
+,speed 2.4356999999999998
+label_id, 8,confidence,  +79.66,Position,   +9.95,  +10.28,   -0.28,pos_covariance,   +6.61,   +6.81,   -0.18,   +7.03,   -0.18,   +0.01,velocity,   -1.84,   +0.53,   +0.13
+,speed 3.6834000000000002
+label_id, 7,confidence,  +82.78,Position,  +11.05,   +8.16,   -0.26,pos_covariance,  +10.11,   +7.49,   -0.23,   +5.55,   -0.17,   +0.01,velocity,   -1.85,   +0.38,   +0.13
+,speed 3.5838000000000005
+label_id, 6,confidence,  +80.05,Position,  +11.42,   +5.95,   -0.29,pos_covariance,  +11.55,   +6.05,   -0.28,   +3.17,   -0.14,   +0.01,velocity,   -1.81,   +0.47,   +0.13
+,speed 3.5139
+label_id, 4,confidence,  +73.73,Position,  +11.89,   +3.56,   -0.14,pos_covariance,  +13.56,   +4.08,   -0.14,   +1.23,   -0.04,   +0.00,velocity,   -1.61,   +0.48,   +0.13
+,speed 2.8394000000000004
+label_id, 2,confidence,  +84.67,Position,  +12.99,   -1.64,   -0.05,pos_covariance,  +19.28,   -2.42,   -0.06,   +0.31,   +0.01,   +0.00,velocity,   -1.34,   +0.46,   +0.13
+,speed 2.0241000000000002
+label_id, 8,confidence,  +82.53,Position,   +8.53,   +9.26,   -0.34,pos_covariance,   +3.58,   +3.89,   -0.15,   +4.23,   -0.16,   +0.01,velocity,   -0.85,   +1.49,   +0.04
+,speed 2.9441999999999995
+label_id, 7,confidence,  +84.06,Position,  +10.26,   +8.38,   -0.27,pos_covariance,   +7.51,   +6.16,   -0.21,   +5.05,   -0.17,   +0.01,velocity,   -2.00,   +0.63,   -0.03
+,speed 4.3978
+label_id, 6,confidence,  +80.63,Position,  +10.81,   +6.29,   -0.29,pos_covariance,   +9.23,   +5.39,   -0.26,   +3.15,   -0.15,   +0.01,velocity,   -1.75,   +0.74,   -0.01
+,speed 3.6102000000000003
+label_id, 4,confidence,  +74.95,Position,  +11.43,   +3.92,   -0.15,pos_covariance,  +11.63,   +4.01,   -0.16,   +1.38,   -0.05,   +0.00,velocity,   -1.55,   +0.75,   +0.01
+,speed 2.9651000000000005
+label_id, 2,confidence,  +80.73,Position,  +12.25,   -1.33,   -0.07,pos_covariance,  +15.27,   -1.63,   -0.09,   +0.18,   +0.01,   +0.00,velocity,   -1.26,   +0.74,   +0.03
+,speed 2.1361000000000003
+label_id, 8,confidence,  +80.38,Position,   +8.23,   +9.08,   -0.34,pos_covariance,   +3.12,   +3.44,   -0.12,   +3.80,   -0.14,   +0.01,velocity,   -0.97,   +1.65,   +0.30
+,speed 3.7533999999999996
+label_id, 7,confidence,  +83.24,Position,   +9.71,   +8.49,   -0.27,pos_covariance,   +6.01,   +5.28,   -0.16,   +4.63,   -0.14,   +0.01,velocity,   -2.11,   +0.73,   +0.21
+,speed 5.0291
+label_id, 6,confidence,  +86.81,Position,  +10.40,   +6.50,   -0.29,pos_covariance,   +7.94,   +4.99,   -0.21,   +3.13,   -0.13,   +0.01,velocity,   -1.84,   +0.90,   +0.18
+,speed 4.228000000000001
+label_id, 4,confidence,  +79.02,Position,  +11.11,   +4.15,   -0.15,pos_covariance,  +10.27,   +3.86,   -0.13,   +1.45,   -0.05,   +0.00,velocity,   -1.66,   +0.91,   +0.14
+,speed 3.6033
+label_id, 2,confidence,  +80.02,Position,  +11.89,   -1.11,   -0.07,pos_covariance,  +13.55,   -1.25,   -0.08,   +0.12,   +0.01,   +0.00,velocity,   -1.39,   +0.92,   +0.02
+,speed 2.7788999999999997
+label_id, 8,confidence,  +70.97,Position,   +7.93,   +9.04,   -0.29,pos_covariance,   +2.67,   +3.05,   -0.09,   +3.47,   -0.11,   +0.00,velocity,   -1.06,   +1.65,   +0.12
+,speed 3.8605
+label_id, 7,confidence,  +76.10,Position,   +8.90,   +8.51,   -0.24,pos_covariance,   +4.25,   +4.07,   -0.11,   +3.91,   -0.11,   +0.00,velocity,   -1.89,   +0.61,   +0.03
+,speed 3.9451
+label_id, 6,confidence,  +80.06,Position,   +9.76,   +6.71,   -0.25,pos_covariance,   +6.13,   +4.23,   -0.15,   +2.92,   -0.11,   +0.01,velocity,   -2.00,   +0.93,   +0.02
+,speed 4.8653
+label_id, 4,confidence,  +71.13,Position,  +10.61,   +4.46,   -0.13,pos_covariance,   +8.57,   +3.62,   -0.09,   +1.53,   -0.04,   +0.00,velocity,   -1.65,   +0.99,   +0.01
+,speed 3.7026999999999997
+label_id, 2,confidence,  +85.50,Position,  +11.37,   -0.77,   -0.07,pos_covariance,  +11.32,   -0.76,   -0.06,   +0.05,   +0.00,   +0.00,velocity,   -1.29,   +1.00,   -0.02
+,speed 2.6645000000000003
+label_id, 8,confidence,  +70.97,Position,   +7.40,   +8.79,   -0.34,pos_covariance,   +2.04,   +2.42,   -0.09,   +2.88,   -0.11,   +0.01,velocity,   -0.88,   +1.53,   +0.31
+,speed 3.2114
+label_id, 7,confidence,  +79.72,Position,   +8.03,   +8.69,   -0.28,pos_covariance,   +2.81,   +3.04,   -0.10,   +3.29,   -0.11,   +0.00,velocity,   -1.73,   +0.44,   +0.24
+,speed 3.2441
+label_id, 6,confidence,  +80.81,Position,   +8.75,   +6.84,   -0.29,pos_covariance,   +3.97,   +3.11,   -0.13,   +2.44,   -0.11,   +0.01,velocity,   -1.63,   +0.80,   +0.25
+,speed 3.3594
+label_id, 4,confidence,  +75.03,Position,   +9.95,   +4.79,   -0.16,pos_covariance,   +6.62,   +3.21,   -0.11,   +1.55,   -0.05,   +0.00,velocity,   -1.69,   +0.82,   +0.24
+,speed 3.586099999999999
+label_id, 2,confidence,  +78.94,Position,  +11.02,   -0.42,   -0.09,pos_covariance,   +9.97,   -0.37,   -0.08,   +0.01,   +0.00,   +0.00,velocity,   -1.38,   +0.87,   +0.20
+,speed 2.7013
+label_id, 7,confidence,  +73.80,Position,   +7.56,   +8.64,   -0.28,pos_covariance,   +2.21,   +2.52,   -0.08,   +2.88,   -0.09,   +0.00,velocity,   -1.56,   +0.40,   -0.01
+,speed 2.5937000000000006
+label_id, 6,confidence,  +74.42,Position,   +7.93,   +7.01,   -0.30,pos_covariance,   +2.67,   +2.37,   -0.10,   +2.11,   -0.09,   +0.00,velocity,   -1.74,   +1.00,   -0.00
+,speed 4.0276
+label_id, 4,confidence,  +80.02,Position,   +9.23,   +5.08,   -0.18,pos_covariance,   +4.90,   +2.71,   -0.10,   +1.50,   -0.05,   +0.00,velocity,   -1.88,   +1.05,   -0.04
+,speed 4.6385
+label_id, 2,confidence,  +70.35,Position,  +10.33,   -0.08,   -0.13,pos_covariance,   +7.71,   -0.05,   -0.11,   +0.00,   +0.00,   +0.00,velocity,   -1.24,   +1.12,   -0.08
+,speed 2.7984000000000004
+label_id, 7,confidence,  +73.80,Position,   +7.20,   +8.64,   -0.29,pos_covariance,   +1.81,   +2.18,   -0.07,   +2.63,   -0.09,   +0.00,velocity,   -1.43,   +0.28,   +0.09
+,speed 2.1313999999999997
+label_id, 6,confidence,  +75.72,Position,   +7.47,   +7.23,   -0.31,pos_covariance,   +2.10,   +2.04,   -0.09,   +1.99,   -0.08,   +0.00,velocity,   -1.74,   +0.84,   +0.04
+,speed 3.7348
+label_id, 4,confidence,  +77.25,Position,   +8.83,   +5.30,   -0.19,pos_covariance,   +4.11,   +2.48,   -0.09,   +1.49,   -0.06,   +0.00,velocity,   -1.84,   +0.89,   -0.11
+,speed 4.1898
+label_id, 2,confidence,  +77.34,Position,  +10.09,   +0.16,   -0.16,pos_covariance,   +7.02,   +0.12,   -0.12,   +0.00,   -0.00,   +0.00,velocity,   -1.37,   +0.98,   -0.37
+,speed 2.9741999999999997
+label_id, 6,confidence,  +89.43,Position,   +7.03,   +7.32,   -0.37,pos_covariance,   +1.65,   +1.72,   -0.09,   +1.80,   -0.09,   +0.01,velocity,   -1.16,   +0.95,   +0.14
+,speed 2.2677
+label_id, 4,confidence,  +90.66,Position,   +7.83,   +5.52,   -0.27,pos_covariance,   +2.54,   +1.79,   -0.09,   +1.27,   -0.06,   +0.00,velocity,   -1.48,   +0.86,   +0.08
+,speed 2.9364
+label_id, 2,confidence,  +84.47,Position,   +9.58,   +0.56,   -0.22,pos_covariance,   +5.70,   +0.34,   -0.14,   +0.02,   -0.01,   +0.00,velocity,   -1.38,   +0.98,   -0.05
+,speed 2.8672999999999997
+label_id, 6,confidence,  +87.17,Position,   +6.70,   +7.30,   -0.40,pos_covariance,   +1.36,   +1.48,   -0.08,   +1.61,   -0.09,   +0.01,velocity,   -0.84,   +0.98,   +0.23
+,speed 1.7188999999999999
+label_id, 4,confidence,  +89.31,Position,   +7.10,   +5.68,   -0.31,pos_covariance,   +1.72,   +1.38,   -0.08,   +1.11,   -0.06,   +0.00,velocity,   -1.49,   +0.81,   +0.26
+,speed 2.9438
+label_id, 2,confidence,  +88.15,Position,   +9.20,   +0.92,   -0.29,pos_covariance,   +4.84,   +0.49,   -0.15,   +0.05,   -0.02,   +0.01,velocity,   -1.31,   +0.95,   +0.45
+,speed 2.8211000000000004
+label_id, 6,confidence,  +77.00,Position,   +6.38,   +7.26,   -0.41,pos_covariance,   +1.11,   +1.27,   -0.07,   +1.45,   -0.08,   +0.00,velocity,   -0.98,   +1.03,   +0.12
+,speed 2.0357000000000003
+label_id, 4,confidence,  +87.21,Position,   +6.53,   +5.80,   -0.32,pos_covariance,   +1.22,   +1.09,   -0.06,   +0.98,   -0.05,   +0.00,velocity,   -1.67,   +0.82,   +0.06
+,speed 3.4648999999999996
+label_id, 2,confidence,  +85.08,Position,   +8.68,   +1.19,   -0.32,pos_covariance,   +3.84,   +0.54,   -0.15,   +0.08,   -0.02,   +0.01,velocity,   -1.53,   +1.00,   -0.19
+,speed 3.377
+label_id, 4,confidence,  +89.81,Position,   +5.88,   +5.97,   -0.27,pos_covariance,   +0.80,   +0.82,   -0.04,   +0.84,   -0.04,   +0.00,velocity,   -1.79,   +0.79,   -0.12
+,speed 3.8426
+label_id, 6,confidence,  +77.00,Position,   +5.93,   +7.25,   -0.37,pos_covariance,   +0.83,   +1.02,   -0.05,   +1.25,   -0.06,   +0.00,velocity,   -1.11,   +1.01,   -0.11
+,speed 2.2643000000000004
+label_id, 2,confidence,  +81.62,Position,   +8.19,   +1.54,   -0.27,pos_covariance,   +3.04,   +0.58,   -0.10,   +0.11,   -0.02,   +0.00,velocity,   -1.67,   +0.98,   -0.22
+,speed 3.7977
+label_id, 4,confidence,  +88.51,Position,   +5.61,   +6.04,   -0.23,pos_covariance,   +0.67,   +0.72,   -0.03,   +0.78,   -0.03,   +0.00,velocity,   -1.10,   +0.84,   +0.20
+,speed 1.9556
+label_id, 2,confidence,  +84.87,Position,   +7.65,   +1.88,   -0.20,pos_covariance,   +2.32,   +0.58,   -0.05,   +0.14,   -0.01,   +0.00,velocity,   -1.70,   +0.96,   +0.24
+,speed 3.8691999999999993
+label_id, 4,confidence,  +75.18,Position,   +5.94,   +6.63,   -0.20,pos_covariance,   +0.87,   +0.97,   -0.03,   +1.08,   -0.03,   +0.00,velocity,   +0.07,   +1.18,   -0.10
+,speed 1.4072999999999998
+label_id, 2,confidence,  +87.50,Position,   +7.24,   +2.16,   -0.18,pos_covariance,   +1.85,   +0.56,   -0.05,   +0.17,   -0.01,   +0.00,velocity,   -1.71,   +1.00,   -0.18
+,speed 3.9564999999999997
+label_id, 4,confidence,  +75.18,Position,   +6.00,   +7.09,   -0.19,pos_covariance,   +0.88,   +1.04,   -0.03,   +1.23,   -0.03,   +0.00,velocity,   -0.00,   +1.31,   -0.24
+,speed 1.7737000000000003
+label_id, 2,confidence,  +85.94,Position,   +6.43,   +2.41,   -0.19,pos_covariance,   +1.15,   +0.43,   -0.04,   +0.16,   -0.01,   +0.00,velocity,   -1.59,   +0.91,   -0.36
+,speed 3.4858000000000002
+label_id, 2,confidence,  +87.75,Position,   +5.77,   +2.64,   -0.24,pos_covariance,   +0.74,   +0.34,   -0.03,   +0.16,   -0.02,   +0.00,velocity,   -1.53,   +0.88,   +0.02
+,speed 3.1157
+label_id, 2,confidence,  +86.84,Position,   +5.11,   +2.80,   -0.28,pos_covariance,   +0.46,   +0.25,   -0.03,   +0.14,   -0.01,   +0.00,velocity,   -1.52,   +0.78,   -0.13
+,speed 2.9357
+label_id, 2,confidence,  +89.33,Position,   +4.38,   +3.01,   -0.31,pos_covariance,   +0.25,   +0.17,   -0.02,   +0.12,   -0.01,   +0.00,velocity,   -1.79,   +0.86,   -0.05
+,speed 3.9461999999999997
+label_id, 2,confidence,  +80.53,Position,   +3.33,   +3.17,   -0.29,pos_covariance,   +0.08,   +0.08,   -0.01,   +0.08,   -0.01,   +0.00,velocity,   -1.74,   +0.77,   +0.07
+,speed 3.6254
+label_id, 2,confidence,  +85.08,Position,   +2.97,   +3.19,   -0.27,pos_covariance,   +0.05,   +0.06,   -0.00,   +0.06,   -0.01,   +0.00,velocity,   -1.46,   +0.78,   -0.07
+,speed 2.7449
+label_id, 2,confidence,  +83.61,Position,   +2.52,   +3.15,   -0.31,pos_covariance,   +0.03,   +0.03,   -0.00,   +0.04,   -0.00,   +0.00,velocity,   -1.22,   +0.71,   -0.09
+,speed 2.0006
+label_id, 9,confidence,  +77.62,Position,  +10.48,  -11.47,   -0.51,pos_covariance,   +8.38,   -9.12,   -0.40,   +9.93,   +0.43,   +0.02,velocity,   +0.74,   +1.48,   +0.33
+,speed 2.8469
+label_id, 9,confidence,  +76.54,Position,  +10.06,  -10.46,   -0.42,pos_covariance,   +6.94,   -7.21,   -0.29,   +7.49,   +0.30,   +0.01,velocity,   +0.35,   +0.82,   -0.05
+,speed 0.7973999999999998
+label_id,10,confidence,  +74.39,Position,   +7.68,   -8.69,   -0.55,pos_covariance,   +2.40,   -2.71,   -0.17,   +3.05,   +0.20,   +0.01,velocity,   -0.37,   -0.15,   -0.26
+,speed 0.22699999999999998
+label_id, 9,confidence,  +71.87,Position,  +10.07,  -10.10,   -0.40,pos_covariance,   +6.99,   -7.00,   -0.27,   +7.01,   +0.27,   +0.01,velocity,   -0.13,   +1.09,   -0.30
+,speed 1.2950000000000002
+label_id,10,confidence,  +78.35,Position,   +7.48,   -8.23,   -0.55,pos_covariance,   +2.11,   -2.32,   -0.16,   +2.55,   +0.17,   +0.01,velocity,   -0.31,   +1.05,   +0.09
+,speed 1.2067
+label_id, 9,confidence,  +73.15,Position,   +9.89,   -9.42,   -0.38,pos_covariance,   +6.46,   -6.16,   -0.24,   +5.87,   +0.23,   +0.01,velocity,   -0.27,   +1.07,   +0.10
+,speed 1.2278
+label_id,10,confidence,  +79.46,Position,   +7.21,   -7.88,   -0.55,pos_covariance,   +1.82,   -1.99,   -0.14,   +2.18,   +0.15,   +0.01,velocity,   -0.82,   +0.77,   +0.32
+,speed 1.3677
+label_id, 9,confidence,  +70.78,Position,   +9.77,   -8.91,   -0.39,pos_covariance,   +6.16,   -5.61,   -0.24,   +5.12,   +0.22,   +0.01,velocity,   -0.81,   +1.03,   +0.42
+,speed 1.8934
+label_id,10,confidence,  +70.79,Position,   +6.82,   -7.56,   -0.52,pos_covariance,   +1.46,   -1.62,   -0.11,   +1.79,   +0.12,   +0.01,velocity,   -1.13,   +0.61,   +0.21
+,speed 1.6930999999999996
+label_id, 9,confidence,  +72.79,Position,   +9.19,   -8.61,   -0.36,pos_covariance,   +4.79,   -4.50,   -0.18,   +4.24,   +0.17,   +0.01,velocity,   -1.09,   +0.21,   +0.27
+,speed 1.3051000000000001
+label_id,10,confidence,  +70.08,Position,   +6.54,   -7.37,   -0.51,pos_covariance,   +1.23,   -1.39,   -0.09,   +1.57,   +0.11,   +0.01,velocity,   -1.25,   +0.50,   +0.03
+,speed 1.8134
+label_id, 9,confidence,  +72.11,Position,   +8.73,   -8.57,   -0.34,pos_covariance,   +3.92,   -3.85,   -0.15,   +3.78,   +0.15,   +0.01,velocity,   -1.21,   +0.03,   +0.04
+,speed 1.4666
+label_id,10,confidence,  +75.84,Position,   +6.39,   -7.25,   -0.51,pos_covariance,   +1.12,   -1.27,   -0.09,   +1.45,   +0.10,   +0.01,velocity,   -1.06,   +0.17,   -0.11
+,speed 1.1646
+label_id, 9,confidence,  +72.50,Position,   +8.51,   -8.37,   -0.34,pos_covariance,   +3.54,   -3.49,   -0.14,   +3.44,   +0.14,   +0.01,velocity,   -1.16,   +0.57,   -0.14
+,speed 1.6901
+label_id,10,confidence,  +70.23,Position,   +5.95,   -6.86,   -0.50,pos_covariance,   +0.85,   -0.98,   -0.07,   +1.12,   +0.08,   +0.01,velocity,   -1.08,   +0.41,   +0.13
+,speed 1.3514
+label_id, 9,confidence,  +80.65,Position,   +8.14,   -8.11,   -0.34,pos_covariance,   +2.97,   -2.96,   -0.12,   +2.94,   +0.12,   +0.01,velocity,   -1.09,   +0.80,   +0.19
+,speed 1.8642000000000003
+label_id,11,confidence,  +70.55,Position,  +10.57,   -7.95,   -0.45,pos_covariance,   +8.37,   -6.29,   -0.35,   +4.73,   +0.26,   +0.02,velocity,   -1.10,   -0.77,   +0.21
+,speed 1.8470000000000002
+label_id,10,confidence,  +70.23,Position,   +5.67,   -6.63,   -0.48,pos_covariance,   +0.69,   -0.81,   -0.06,   +0.95,   +0.07,   +0.01,velocity,   -1.16,   +0.34,   +0.10
+,speed 1.4711999999999998
+label_id, 9,confidence,  +81.35,Position,   +7.86,   -7.85,   -0.32,pos_covariance,   +2.58,   -2.58,   -0.10,   +2.57,   +0.10,   +0.00,velocity,   -1.18,   +0.68,   +0.14
+,speed 1.8744
+label_id,10,confidence,  +70.23,Position,   +5.30,   -6.35,   -0.46,pos_covariance,   +0.53,   -0.64,   -0.04,   +0.76,   +0.05,   +0.00,velocity,   -1.19,   +0.30,   +0.18
+,speed 1.5385
+label_id, 9,confidence,  +80.21,Position,   +7.47,   -7.51,   -0.30,pos_covariance,   +2.11,   -2.12,   -0.08,   +2.13,   +0.08,   +0.00,velocity,   -1.22,   +0.55,   +0.23
+,speed 1.8437999999999999
+label_id,11,confidence,  +73.36,Position,  +10.02,   -7.54,   -0.38,pos_covariance,   +6.85,   -5.16,   -0.25,   +3.89,   +0.19,   +0.01,velocity,   -1.53,   +1.04,   +0.26
+,speed 3.4901000000000004
+label_id,10,confidence,  +70.23,Position,   +4.90,   -6.10,   -0.44,pos_covariance,   +0.39,   -0.48,   -0.03,   +0.60,   +0.04,   +0.00,velocity,   -1.33,   +0.16,   +0.20
+,speed 1.8345000000000002
+label_id, 9,confidence,  +79.94,Position,   +7.20,   -7.27,   -0.30,pos_covariance,   +1.82,   -1.84,   -0.07,   +1.85,   +0.07,   +0.00,velocity,   -1.38,   +0.21,   +0.27
+,speed 2.0214
+label_id,11,confidence,  +73.90,Position,   +9.63,   -7.27,   -0.37,pos_covariance,   +5.79,   -4.37,   -0.21,   +3.30,   +0.16,   +0.01,velocity,   -1.54,   +0.74,   +0.32
+,speed 3.0216
+label_id, 9,confidence,  +80.79,Position,   +6.95,   -7.03,   -0.28,pos_covariance,   +1.57,   -1.59,   -0.06,   +1.61,   +0.06,   +0.00,velocity,   -1.42,   +0.12,   +0.19
+,speed 2.0669
+label_id,11,confidence,  +78.18,Position,   +9.12,   -6.86,   -0.33,pos_covariance,   +4.66,   -3.51,   -0.16,   +2.64,   +0.12,   +0.01,velocity,   -1.65,   +0.73,   +0.26
+,speed 3.323
+label_id, 9,confidence,  +81.89,Position,   +6.59,   -6.75,   -0.27,pos_covariance,   +1.27,   -1.30,   -0.05,   +1.34,   +0.05,   +0.00,velocity,   -1.47,   +0.03,   -0.15
+,speed 2.1843
+label_id,11,confidence,  +82.06,Position,   +8.64,   -6.65,   -0.31,pos_covariance,   +3.77,   -2.90,   -0.14,   +2.23,   +0.10,   +0.01,velocity,   -1.64,   +0.61,   -0.20
+,speed 3.1016999999999997
+label_id, 9,confidence,  +83.78,Position,   +6.26,   -6.53,   -0.25,pos_covariance,   +1.03,   -1.08,   -0.04,   +1.13,   +0.04,   +0.00,velocity,   -1.57,   -0.20,   +0.08
+,speed 2.5113000000000003
+label_id,11,confidence,  +82.68,Position,   +8.13,   -6.42,   -0.28,pos_covariance,   +2.96,   -2.34,   -0.10,   +1.85,   +0.08,   +0.00,velocity,   -1.74,   +0.44,   +0.10
+,speed 3.2312
+label_id, 9,confidence,  +84.73,Position,   +5.94,   -6.38,   -0.25,pos_covariance,   +0.84,   -0.90,   -0.04,   +0.97,   +0.04,   +0.00,velocity,   -1.79,   -0.63,   +0.03
+,speed 3.6019
+label_id,11,confidence,  +82.01,Position,   +7.64,   -6.40,   -0.28,pos_covariance,   +2.30,   -1.94,   -0.08,   +1.63,   +0.07,   +0.00,velocity,   -1.86,   +0.10,   +0.02
+,speed 3.47
+label_id, 9,confidence,  +70.52,Position,   +5.78,   -6.40,   -0.26,pos_covariance,   +0.75,   -0.84,   -0.03,   +0.93,   +0.04,   +0.00,velocity,   -1.84,   -0.98,   -0.13
+,speed 4.3629
+label_id,11,confidence,  +82.91,Position,   +7.16,   -6.50,   -0.28,pos_covariance,   +1.77,   -1.62,   -0.07,   +1.48,   +0.06,   +0.00,velocity,   -2.09,   +0.08,   -0.16
+,speed 4.400099999999999
+label_id, 9,confidence,  +70.13,Position,   +5.42,   -6.33,   -0.27,pos_covariance,   +0.58,   -0.68,   -0.03,   +0.79,   +0.03,   +0.00,velocity,   -1.85,   -0.79,   +0.08
+,speed 4.053000000000001
+label_id,11,confidence,  +89.53,Position,   +6.64,   -6.56,   -0.28,pos_covariance,   +1.31,   -1.30,   -0.05,   +1.29,   +0.05,   +0.00,velocity,   -2.15,   +0.16,   +0.07
+,speed 4.653
+label_id, 9,confidence,  +70.13,Position,   +5.16,   -6.27,   -0.28,pos_covariance,   +0.48,   -0.58,   -0.03,   +0.71,   +0.03,   +0.00,velocity,   -1.81,   -0.81,   +0.31
+,speed 4.0283
+label_id,11,confidence,  +85.93,Position,   +6.40,   -6.52,   -0.29,pos_covariance,   +1.13,   -1.15,   -0.05,   +1.18,   +0.05,   +0.00,velocity,   -2.45,   +0.27,   +0.37
+,speed 6.212300000000001
+label_id,11,confidence,  +87.05,Position,   +6.04,   -6.34,   -0.29,pos_covariance,   +0.90,   -0.95,   -0.04,   +0.99,   +0.05,   +0.00,velocity,   -2.80,   +0.19,   -0.05
+,speed 7.8786
+label_id,11,confidence,  +82.29,Position,   +5.89,   -6.42,   -0.30,pos_covariance,   +0.81,   -0.88,   -0.04,   +0.97,   +0.05,   +0.00,velocity,   -3.27,   +0.09,   -0.04
+,speed 10.7026
+label_id,11,confidence,  +74.29,Position,   +5.61,   -6.42,   -0.29,pos_covariance,   +0.67,   -0.76,   -0.04,   +0.88,   +0.04,   +0.00,velocity,   -3.15,   +0.17,   -0.12
+,speed 9.9658
+label_id,12,confidence,  +74.34,Position,  +18.56,   -0.44,   -0.65,pos_covariance,  +80.81,   -1.91,   -2.83,   +0.05,   +0.07,   +0.10,velocity,   -2.27,   -0.04,   -0.36
+,speed 5.2841
+label_id,12,confidence,  +78.28,Position,  +17.96,   -0.49,   -0.60,pos_covariance,  +70.49,   -1.97,   -2.39,   +0.06,   +0.07,   +0.09,velocity,   -2.07,   -0.06,   -0.52
+,speed 4.5588999999999995
+label_id,12,confidence,  +74.46,Position,  +17.80,   -0.58,   -0.73,pos_covariance,  +68.21,   -2.28,   -2.90,   +0.08,   +0.10,   +0.13,velocity,   -0.68,   -0.18,   -1.53
+,speed 2.8357
+label_id,12,confidence,  +76.73,Position,  +17.69,   -0.59,   -0.73,pos_covariance,  +66.42,   -2.21,   -2.78,   +0.08,   +0.09,   +0.12,velocity,   -0.53,   -0.05,   -0.35
+,speed 0.40590000000000004
+label_id,12,confidence,  +74.08,Position,  +17.62,   -0.63,   -0.85,pos_covariance,  +65.44,   -2.38,   -3.20,   +0.09,   +0.12,   +0.16,velocity,   -0.27,   -0.08,   -0.22
+,speed 0.1277
+label_id,12,confidence,  +77.68,Position,  +17.57,   -0.66,   -0.67,pos_covariance,  +64.93,   -2.38,   -2.44,   +0.09,   +0.09,   +0.10,velocity,   -0.18,   +0.05,   +0.01
+,speed 0.035
+label_id,12,confidence,  +78.10,Position,  +17.55,   -0.67,   -0.67,pos_covariance,  +64.49,   -2.51,   -2.59,   +0.10,   +0.10,   +0.11,velocity,   -0.15,   -0.34,   -0.39
+,speed 0.2902
+label_id,12,confidence,  +71.93,Position,  +17.53,   -0.60,   -0.85,pos_covariance,  +64.56,   -2.09,   -3.15,   +0.07,   +0.10,   +0.16,velocity,   +0.04,   +0.91,   +0.64
+,speed 1.2393
+label_id,12,confidence,  +77.09,Position,  +17.37,   -0.45,   -0.85,pos_covariance,  +61.49,   -1.54,   -2.92,   +0.04,   +0.07,   +0.14,velocity,   -0.26,   +0.35,   +0.19
+,speed 0.22619999999999998
+label_id,12,confidence,  +71.44,Position,  +16.78,   -0.24,   -0.81,pos_covariance,  +53.71,   -0.69,   -2.58,   +0.01,   +0.03,   +0.13,velocity,   -0.85,   +1.11,   +0.42
+,speed 2.1310000000000002
+label_id,12,confidence,  +72.02,Position,  +16.07,   +0.09,   -0.77,pos_covariance,  +45.22,   +0.30,   -2.16,   +0.00,   -0.01,   +0.11,velocity,   -1.24,   +0.97,   -0.06
+,speed 2.4821
+label_id,12,confidence,  +71.24,Position,  +15.40,   +0.29,   -0.81,pos_covariance,  +38.04,   +0.75,   -2.04,   +0.02,   -0.04,   +0.11,velocity,   -1.57,   +0.70,   -0.23
+,speed 3.0078
+label_id,12,confidence,  +77.79,Position,  +14.86,   +0.42,   -0.79,pos_covariance,  +33.01,   +0.96,   -1.71,   +0.03,   -0.05,   +0.09,velocity,   -1.18,   +0.85,   +0.34
+,speed 2.2304999999999997
+label_id,12,confidence,  +75.38,Position,  +13.97,   +0.63,   -0.74,pos_covariance,  +25.81,   +1.19,   -1.33,   +0.06,   -0.06,   +0.07,velocity,   -2.00,   +0.50,   +0.41
+,speed 4.4181
+label_id,12,confidence,  +79.91,Position,  +13.12,   +0.86,   -0.72,pos_covariance,  +20.04,   +1.34,   -1.12,   +0.09,   -0.07,   +0.06,velocity,   -2.18,   +0.56,   -0.45
+,speed 5.2685
+label_id,12,confidence,  +76.67,Position,  +12.66,   +1.00,   -0.68,pos_covariance,  +17.39,   +1.40,   -0.91,   +0.11,   -0.07,   +0.05,velocity,   -2.04,   +0.54,   +0.37
+,speed 4.5901
+label_id,12,confidence,  +72.52,Position,  +11.60,   +1.21,   -0.67,pos_covariance,  +12.26,   +1.30,   -0.73,   +0.14,   -0.08,   +0.04,velocity,   -1.52,   +0.90,   -0.30
+,speed 3.2104
+label_id,12,confidence,  +78.67,Position,  +10.78,   +1.35,   -0.66,pos_covariance,   +9.14,   +1.17,   -0.54,   +0.15,   -0.07,   +0.03,velocity,   -2.13,   +0.70,   +0.37
+,speed 5.163799999999999
+label_id,12,confidence,  +75.06,Position,  +10.08,   +1.44,   -0.63,pos_covariance,   +6.98,   +1.00,   -0.43,   +0.15,   -0.06,   +0.03,velocity,   -2.07,   +0.40,   -0.07
+,speed 4.4498
+label_id,12,confidence,  +85.95,Position,   +9.33,   +1.46,   -0.55,pos_covariance,   +5.12,   +0.81,   -0.31,   +0.13,   -0.05,   +0.02,velocity,   -2.13,   +0.10,   -0.48
+,speed 4.777299999999999
+label_id,12,confidence,  +84.80,Position,   +8.25,   +1.40,   -0.55,pos_covariance,   +3.14,   +0.52,   -0.21,   +0.09,   -0.03,   +0.01,velocity,   -1.69,   -0.10,   +0.28
+,speed 2.9444999999999992
+label_id,12,confidence,  +84.51,Position,   +7.71,   +1.36,   -0.54,pos_covariance,   +2.38,   +0.42,   -0.17,   +0.07,   -0.03,   +0.01,velocity,   -1.99,   -0.07,   -0.15
+,speed 3.9875000000000003
+label_id,12,confidence,  +86.77,Position,   +7.08,   +1.36,   -0.53,pos_covariance,   +1.70,   +0.33,   -0.13,   +0.06,   -0.02,   +0.01,velocity,   -2.14,   -0.03,   -0.09
+,speed 4.5886
+label_id,12,confidence,  +86.85,Position,   +6.16,   +1.32,   -0.50,pos_covariance,   +0.97,   +0.21,   -0.08,   +0.04,   -0.02,   +0.01,velocity,   -1.68,   -0.01,   +0.02
+,speed 2.8228999999999997
+label_id,12,confidence,  +87.87,Position,   +5.33,   +1.30,   -0.48,pos_covariance,   +0.54,   +0.13,   -0.05,   +0.03,   -0.01,   +0.00,velocity,   -1.69,   +0.07,   +0.16
+,speed 2.8865999999999996
+label_id,12,confidence,  +90.95,Position,   +4.68,   +1.34,   -0.45,pos_covariance,   +0.32,   +0.09,   -0.03,   +0.03,   -0.01,   +0.00,velocity,   -2.01,   +0.34,   +0.38
+,speed 4.300099999999999
+label_id,12,confidence,  +90.13,Position,   +4.01,   +1.38,   -0.41,pos_covariance,   +0.17,   +0.06,   -0.02,   +0.02,   -0.01,   +0.00,velocity,   -1.66,   +0.03,   +0.09
+,speed 2.7646
+label_id,12,confidence,  +91.06,Position,   +3.32,   +1.38,   -0.42,pos_covariance,   +0.08,   +0.03,   -0.01,   +0.01,   -0.00,   +0.00,velocity,   -1.36,   +0.16,   -0.03
+,speed 1.8761000000000003
+label_id,12,confidence,  +93.14,Position,   +3.03,   +1.40,   -0.43,pos_covariance,   +0.06,   +0.03,   -0.01,   +0.01,   -0.00,   +0.00,velocity,   -1.43,   +0.08,   -0.23
+,speed 2.1042
+label_id,12,confidence,  +91.72,Position,   +2.56,   +1.47,   -0.41,pos_covariance,   +0.03,   +0.02,   -0.00,   +0.01,   -0.00,   +0.00,velocity,   -1.07,   +0.08,   -0.17
+,speed 1.1802
+label_id,12,confidence,  +92.01,Position,   +2.18,   +1.49,   -0.41,pos_covariance,   +0.01,   +0.01,   -0.00,   +0.01,   -0.00,   +0.00,velocity,   -0.94,   +0.09,   +0.12
+,speed 0.9060999999999999
+label_id,12,confidence,  +93.63,Position,   +1.91,   +1.39,   -0.41,pos_covariance,   +0.01,   +0.01,   -0.00,   +0.00,   -0.00,   +0.00,velocity,   -0.55,   +0.05,   -0.04
+,speed 0.30660000000000004
+label_id,12,confidence,  +93.91,Position,   +1.70,   +1.19,   -0.41,pos_covariance,   +0.01,   +0.00,   -0.00,   +0.00,   -0.00,   +0.00,velocity,   -0.25,   +0.07,   -0.03
+,speed 0.0683
+label_id,12,confidence,  +93.27,Position,   +1.67,   +1.16,   -0.42,pos_covariance,   +0.01,   +0.00,   -0.00,   +0.00,   -0.00,   +0.00,velocity,   -0.32,   +0.09,   -0.03
+,speed 0.1114
+label_id,12,confidence,  +92.76,Position,   +1.65,   +1.16,   -0.44,pos_covariance,   +0.01,   +0.00,   -0.00,   +0.00,   -0.00,   +0.00,velocity,   -0.24,   +0.10,   -0.05
+,speed 0.0701
+label_id,12,confidence,  +79.43,Position,   +1.67,   +1.23,   -0.46,pos_covariance,   +0.01,   +0.00,   -0.00,   +0.00,   -0.00,   +0.00,velocity,   -0.12,   +0.14,   -0.10
+,speed 0.044000000000000004
+label_id,13,confidence,  +74.45,Position,  +17.70,   +4.50,   -0.97,pos_covariance,  +67.21,  +17.17,   -3.77,   +4.39,   -0.96,   +0.22,velocity,   +3.42,   +1.85,   -0.71
+,speed 15.623
+label_id,12,confidence,  +90.93,Position,   +1.59,   +1.25,   -0.47,pos_covariance,   +0.00,   +0.00,   -0.00,   +0.00,   -0.00,   +0.00,velocity,   -0.41,   +0.12,   -0.06
+,speed 0.18609999999999996
+label_id,13,confidence,  +76.68,Position,  +17.76,   +4.89,   -1.01,pos_covariance,  +68.10,  +18.80,   -3.93,   +5.20,   -1.09,   +0.23,velocity,   +1.64,   +1.36,   -0.26
+,speed 4.6068
+label_id,12,confidence,  +89.17,Position,   +1.57,   +1.26,   -0.49,pos_covariance,   +0.00,   +0.00,   -0.00,   +0.00,   -0.00,   +0.00,velocity,   -0.10,   +0.14,   -0.12
+,speed 0.044000000000000004
+label_id,13,confidence,  +72.98,Position,  +18.00,   +5.15,   -1.07,pos_covariance,  +71.80,  +20.59,   -4.31,   +5.91,   -1.23,   +0.26,velocity,   +1.14,   +1.24,   -0.30
+,speed 2.9272
+label_id,12,confidence,  +90.32,Position,   +1.66,   +1.42,   -0.54,pos_covariance,   +0.01,   +0.00,   -0.00,   +0.00,   -0.00,   +0.00,velocity,   +0.11,   +0.12,   -0.10
+,speed 0.036500000000000005
+label_id,14,confidence,  +78.12,Position,  +17.81,   +8.57,   -1.01,pos_covariance,  +68.92,  +33.24,   -3.94,  +16.04,   -1.90,   +0.23,velocity,   -1.70,   -2.72,   +0.24
+,speed 10.346000000000002
+label_id,13,confidence,  +74.79,Position,  +18.43,   +5.58,   -1.15,pos_covariance,  +78.72,  +23.90,   -4.93,   +7.26,   -1.50,   +0.31,velocity,   +1.06,   +1.09,   -0.03
+,speed 2.3126
+label_id,12,confidence,  +85.72,Position,   +1.66,   +1.51,   -0.56,pos_covariance,   +0.00,   +0.00,   -0.00,   +0.00,   -0.00,   +0.00,velocity,   -0.04,   +0.10,   -0.18
+,speed 0.044
+label_id,14,confidence,  +78.33,Position,  +16.77,   +8.68,   -0.99,pos_covariance,  +53.61,  +27.79,   -3.21,  +14.40,   -1.67,   +0.20,velocity,   -2.32,   +0.81,   -0.51
+,speed 6.2986
+label_id,13,confidence,  +73.36,Position,  +18.65,   +5.83,   -1.20,pos_covariance,  +82.57,  +25.83,   -5.43,   +8.08,   -1.70,   +0.36,velocity,   +0.86,   +0.79,   -0.77
+,speed 1.9566000000000001
+label_id,12,confidence,  +73.52,Position,   +1.64,   +1.61,   -0.58,pos_covariance,   +0.00,   +0.00,   -0.00,   +0.00,   -0.00,   +0.00,velocity,   -0.03,   +0.09,   -0.13
+,speed 0.0259
+label_id,15,confidence,  +75.23,Position,   +8.91,   +7.67,   -0.27,pos_covariance,   +4.28,   +3.69,   -0.13,   +3.18,   -0.11,   +0.01,velocity,   -1.78,   +0.09,   -0.12
+,speed 3.1909000000000005
+label_id,14,confidence,  +80.34,Position,  +16.43,   +8.73,   -0.98,pos_covariance,  +50.04,  +26.62,   -3.04,  +14.16,   -1.62,   +0.19,velocity,   -1.95,   +0.68,   -0.27
+,speed 4.3378
+label_id,13,confidence,  +70.49,Position,  +18.44,   +5.91,   -1.21,pos_covariance,  +78.25,  +25.17,   -5.17,   +8.10,   -1.66,   +0.35,velocity,   +0.07,   +0.76,   -0.49
+,speed 0.8226
+label_id,12,confidence,  +84.78,Position,   +1.61,   +1.74,   -0.63,pos_covariance,   +0.00,   +0.00,   -0.00,   +0.01,   -0.00,   +0.00,velocity,   +0.01,   +0.02,   -0.15
+,speed 0.023
+label_id,15,confidence,  +77.50,Position,   +7.30,   +6.80,   -0.19,pos_covariance,   +1.92,   +1.78,   -0.05,   +1.66,   -0.04,   +0.00,velocity,   -4.54,   -2.66,   +0.14
+,speed 27.7068
+label_id,14,confidence,  +72.06,Position,  +16.18,   +8.79,   -1.01,pos_covariance,  +46.52,  +25.29,   -2.95,  +13.75,   -1.61,   +0.19,velocity,   -1.63,   +0.13,   -0.36
+,speed 2.8034
+label_id,13,confidence,  +73.58,Position,  +17.87,   +5.95,   -1.22,pos_covariance,  +69.15,  +22.94,   -4.78,   +7.61,   -1.59,   +0.34,velocity,   -0.41,   -0.04,   -0.55
+,speed 0.4722
+label_id,15,confidence,  +77.02,Position,   +7.21,   +7.06,   -0.19,pos_covariance,   +1.85,   +1.81,   -0.05,   +1.78,   -0.05,   +0.00,velocity,   -1.85,   -0.52,   -0.21
+,speed 3.737
+label_id,14,confidence,  +71.12,Position,  +15.85,   +8.66,   -1.05,pos_covariance,  +42.81,  +23.37,   -2.87,  +12.76,   -1.57,   +0.20,velocity,   -1.49,   -0.07,   -0.33
+,speed 2.3339000000000003
+label_id,13,confidence,  +71.25,Position,  +17.06,   +5.62,   -1.24,pos_covariance,  +57.44,  +18.87,   -4.18,   +6.20,   -1.37,   +0.31,velocity,   -0.97,   -0.45,   -0.27
+,speed 1.2163
+label_id,15,confidence,  +79.22,Position,   +7.28,   +7.32,   -0.28,pos_covariance,   +1.95,   +1.96,   -0.08,   +1.96,   -0.08,   +0.00,velocity,   -2.00,   -0.52,   -0.25
+,speed 4.3329
+label_id,14,confidence,  +71.09,Position,  +15.68,   +8.66,   -1.14,pos_covariance,  +40.97,  +22.70,   -3.04,  +12.58,   -1.69,   +0.23,velocity,   -1.67,   +0.24,   -0.53
+,speed 3.1273999999999997
+label_id,13,confidence,  +70.36,Position,  +16.72,   +5.49,   -1.28,pos_covariance,  +53.04,  +17.42,   -4.14,   +5.72,   -1.36,   +0.33,velocity,   -1.15,   -0.24,   -0.54
+,speed 1.6717
+label_id,15,confidence,  +78.48,Position,   +7.29,   +7.28,   -0.34,pos_covariance,   +1.90,   +1.89,   -0.09,   +1.89,   -0.09,   +0.01,velocity,   -1.74,   -1.11,   +0.03
+,speed 4.2606
+label_id,14,confidence,  +73.79,Position,  +15.35,   +8.37,   -1.20,pos_covariance,  +37.96,  +20.65,   -2.99,  +11.23,   -1.62,   +0.24,velocity,   -1.13,   -0.75,   -0.09
+,speed 1.8474999999999997
+label_id,13,confidence,  +71.57,Position,  +16.06,   +5.21,   -1.30,pos_covariance,  +45.25,  +14.63,   -3.68,   +4.73,   -1.19,   +0.30,velocity,   -1.04,   -1.25,   -0.11
+,speed 2.6562
+label_id,15,confidence,  +75.03,Position,   +7.03,   +7.02,   -0.35,pos_covariance,   +1.65,   +1.65,   -0.09,   +1.64,   -0.09,   +0.01,velocity,   -1.59,   -0.97,   -0.19
+,speed 3.5051
+label_id,14,confidence,  +77.05,Position,  +15.07,   +7.85,   -1.21,pos_covariance,  +34.87,  +18.15,   -2.83,   +9.45,   -1.47,   +0.23,velocity,   -1.18,   -0.85,   -0.36
+,speed 2.2444999999999995
+label_id,13,confidence,  +72.37,Position,  +15.25,   +4.52,   -1.26,pos_covariance,  +36.61,  +10.81,   -3.07,   +3.19,   -0.91,   +0.26,velocity,   -1.18,   -1.21,   -0.31
+,speed 2.9525999999999994
+label_id,15,confidence,  +79.17,Position,   +6.80,   +6.84,   -0.38,pos_covariance,   +1.44,   +1.45,   -0.08,   +1.46,   -0.08,   +0.01,velocity,   -1.43,   -0.88,   +0.00
+,speed 2.8192999999999997
+label_id,13,confidence,  +75.29,Position,  +14.44,   +4.11,   -1.29,pos_covariance,  +29.38,   +8.35,   -2.62,   +2.37,   -0.74,   +0.24,velocity,   -0.79,   -1.09,   -0.03
+,speed 1.8131000000000002
+label_id,14,confidence,  +77.01,Position,  +14.73,   +7.50,   -1.27,pos_covariance,  +31.91,  +16.24,   -2.76,   +8.26,   -1.40,   +0.24,velocity,   -1.11,   -1.02,   -0.02
+,speed 2.2729
+label_id,15,confidence,  +81.96,Position,   +6.45,   +6.51,   -0.42,pos_covariance,   +1.17,   +1.18,   -0.08,   +1.19,   -0.08,   +0.01,velocity,   -1.28,   -0.80,   -0.13
+,speed 2.2953000000000006
+label_id,13,confidence,  +78.46,Position,  +14.08,   +3.70,   -1.37,pos_covariance,  +26.79,   +7.01,   -2.64,   +1.83,   -0.69,   +0.26,velocity,   -1.10,   -1.25,   -0.35
+,speed 2.895
+label_id,14,confidence,  +74.62,Position,  +14.29,   +7.01,   -1.34,pos_covariance,  +28.23,  +13.83,   -2.68,   +6.77,   -1.31,   +0.26,velocity,   -1.08,   -1.25,   -0.34
+,speed 2.8445000000000005
+label_id,15,confidence,  +82.45,Position,   +6.16,   +6.24,   -0.43,pos_covariance,   +0.97,   +0.98,   -0.07,   +1.00,   -0.07,   +0.01,velocity,   -1.40,   -0.86,   -0.08
+,speed 2.706
+label_id,13,confidence,  +76.92,Position,  +13.66,   +3.32,   -1.39,pos_covariance,  +23.51,   +5.70,   -2.42,   +1.38,   -0.59,   +0.25,velocity,   -1.28,   -1.33,   -0.48
+,speed 3.6377
+label_id,14,confidence,  +78.91,Position,  +14.16,   +6.66,   -1.38,pos_covariance,  +27.28,  +12.81,   -2.70,   +6.02,   -1.27,   +0.27,velocity,   -1.27,   -1.20,   -0.41
+,speed 3.221
+label_id,15,confidence,  +82.14,Position,   +5.88,   +5.97,   -0.43,pos_covariance,   +0.81,   +0.82,   -0.06,   +0.83,   -0.06,   +0.00,velocity,   -1.26,   -0.87,   -0.03
+,speed 2.3454
+label_id,13,confidence,  +72.24,Position,  +13.49,   +2.97,   -1.44,pos_covariance,  +22.48,   +4.92,   -2.43,   +1.08,   -0.53,   +0.27,velocity,   -1.29,   -1.44,   -0.29
+,speed 3.8218
+label_id,14,confidence,  +78.99,Position,  +13.88,   +6.32,   -1.41,pos_covariance,  +25.09,  +11.40,   -2.58,   +5.19,   -1.17,   +0.27,velocity,   -1.07,   -1.31,   -0.25
+,speed 2.9235
+label_id,15,confidence,  +83.74,Position,   +5.43,   +5.61,   -0.42,pos_covariance,   +0.58,   +0.60,   -0.04,   +0.62,   -0.05,   +0.00,velocity,   -1.66,   -0.62,   +0.16
+,speed 3.1655999999999995
+label_id,13,confidence,  +81.04,Position,  +13.16,   +2.63,   -1.48,pos_covariance,  +20.44,   +4.08,   -2.29,   +0.81,   -0.46,   +0.26,velocity,   -1.23,   -0.73,   +0.38
+,speed 2.1902
+label_id,14,confidence,  +80.99,Position,  +13.56,   +5.97,   -1.44,pos_covariance,  +22.86,  +10.06,   -2.42,   +4.43,   -1.06,   +0.26,velocity,   -1.32,   -0.63,   +0.37
+,speed 2.2762000000000002
+label_id,15,confidence,  +86.47,Position,   +5.15,   +5.45,   -0.44,pos_covariance,   +0.47,   +0.50,   -0.04,   +0.53,   -0.04,   +0.00,velocity,   -1.65,   -0.60,   -0.07
+,speed 3.0873999999999997
+label_id,13,confidence,  +82.38,Position,  +12.91,   +2.39,   -1.49,pos_covariance,  +18.93,   +3.48,   -2.21,   +0.64,   -0.41,   +0.26,velocity,   -1.08,   -0.71,   -0.10
+,speed 1.6805
+label_id,14,confidence,  +81.96,Position,  +12.98,   +5.66,   -1.43,pos_covariance,  +19.21,   +8.38,   -2.14,   +3.65,   -0.93,   +0.24,velocity,   -1.34,   -0.78,   -0.13
+,speed 2.4209000000000005
+label_id,15,confidence,  +76.08,Position,   +4.88,   +5.27,   -0.46,pos_covariance,   +0.38,   +0.41,   -0.04,   +0.44,   -0.04,   +0.00,velocity,   -1.72,   -0.65,   +0.05
+,speed 3.3833999999999995
+label_id,14,confidence,  +84.92,Position,  +12.44,   +5.45,   -1.42,pos_covariance,  +16.17,   +7.08,   -1.82,   +3.10,   -0.80,   +0.21,velocity,   -1.35,   -0.64,   +0.11
+,speed 2.2442
+label_id,13,confidence,  +86.23,Position,  +12.69,   +2.16,   -1.50,pos_covariance,  +17.56,   +2.98,   -2.06,   +0.51,   -0.35,   +0.24,velocity,   -0.95,   -0.69,   +0.12
+,speed 1.3929999999999998
+label_id,15,confidence,  +74.25,Position,   +4.57,   +5.07,   -0.50,pos_covariance,   +0.29,   +0.32,   -0.03,   +0.36,   -0.04,   +0.00,velocity,   -1.71,   -0.56,   +0.15
+,speed 3.2601999999999998
+label_id,13,confidence,  +84.37,Position,  +11.93,   +1.92,   -1.51,pos_covariance,  +13.68,   +2.18,   -1.73,   +0.35,   -0.28,   +0.22,velocity,   -1.42,   -0.65,   +0.10
+,speed 2.4488999999999996
+label_id,14,confidence,  +86.09,Position,  +12.11,   +5.26,   -1.45,pos_covariance,  +14.55,   +6.32,   -1.75,   +2.74,   -0.76,   +0.21,velocity,   -1.34,   -0.57,   +0.17
+,speed 2.1494000000000004
+label_id,15,confidence,  +70.02,Position,   +4.22,   +4.91,   -0.52,pos_covariance,   +0.21,   +0.25,   -0.03,   +0.29,   -0.03,   +0.00,velocity,   -1.75,   -0.54,   +0.03
+,speed 3.355
+label_id,13,confidence,  +85.61,Position,  +11.61,   +1.69,   -1.59,pos_covariance,  +12.34,   +1.78,   -1.72,   +0.26,   -0.25,   +0.24,velocity,   -1.16,   -0.47,   -0.46
+,speed 1.7781
+label_id,14,confidence,  +84.62,Position,  +11.73,   +5.17,   -1.51,pos_covariance,  +12.83,   +5.65,   -1.68,   +2.49,   -0.74,   +0.22,velocity,   -1.43,   -0.32,   -0.32
+,speed 2.2496999999999994
+label_id,13,confidence,  +86.00,Position,  +11.13,   +1.62,   -1.64,pos_covariance,  +10.40,   +1.51,   -1.54,   +0.22,   -0.22,   +0.23,velocity,   -1.34,   -0.37,   -0.07
+,speed 1.9374000000000002
+label_id,14,confidence,  +85.45,Position,  +11.57,   +5.15,   -1.57,pos_covariance,  +12.15,   +5.43,   -1.65,   +2.43,   -0.74,   +0.23,velocity,   -1.54,   +0.04,   +0.02
+,speed 2.3735999999999997
+label_id,13,confidence,  +88.69,Position,  +10.69,   +1.56,   -1.69,pos_covariance,   +8.84,   +1.29,   -1.40,   +0.19,   -0.20,   +0.22,velocity,   -1.27,   -0.26,   +0.27
+,speed 1.7534
+label_id,14,confidence,  +83.16,Position,  +11.17,   +5.13,   -1.66,pos_covariance,  +10.53,   +4.83,   -1.57,   +2.22,   -0.72,   +0.24,velocity,   -1.56,   +0.06,   +0.06
+,speed 2.4408000000000003
+label_id,13,confidence,  +89.56,Position,   +9.76,   +1.38,   -1.72,pos_covariance,   +6.13,   +0.86,   -1.08,   +0.12,   -0.15,   +0.19,velocity,   -1.41,   -0.17,   -0.58
+,speed 2.3533999999999997
+label_id,14,confidence,  +89.45,Position,  +10.39,   +4.86,   -1.74,pos_covariance,   +7.90,   +3.69,   -1.33,   +1.73,   -0.62,   +0.23,velocity,   -1.63,   -0.23,   -0.89
+,speed 3.5019
+label_id,13,confidence,  +88.74,Position,   +9.25,   +1.20,   -1.47,pos_covariance,   +4.96,   +0.63,   -0.78,   +0.08,   -0.10,   +0.12,velocity,   -1.20,   -0.62,   +0.97
+,speed 2.7653
+label_id,14,confidence,  +90.05,Position,   +9.86,   +4.60,   -1.53,pos_covariance,   +6.39,   +2.98,   -0.98,   +1.39,   -0.46,   +0.15,velocity,   -1.31,   -0.50,   +1.08
+,speed 3.1325000000000003
+label_id,13,confidence,  +87.19,Position,   +8.78,   +0.92,   -0.99,pos_covariance,   +4.03,   +0.41,   -0.45,   +0.04,   -0.05,   +0.05,velocity,   -1.40,   -0.97,   +1.47
+,speed 5.0618
+label_id,14,confidence,  +71.92,Position,   +9.28,   +4.26,   -0.97,pos_covariance,   +5.03,   +2.30,   -0.52,   +1.05,   -0.24,   +0.05,velocity,   -1.18,   -0.74,   +1.54
+,speed 4.3116
+label_id,13,confidence,  +88.52,Position,   +8.29,   +0.62,   -0.68,pos_covariance,   +3.18,   +0.23,   -0.26,   +0.02,   -0.02,   +0.02,velocity,   -1.64,   -1.21,   +0.62
+,speed 4.5381
+label_id,14,confidence,  +87.91,Position,   +8.95,   +4.05,   -0.68,pos_covariance,   +4.35,   +1.96,   -0.32,   +0.88,   -0.15,   +0.03,velocity,   -1.23,   -1.21,   +0.50
+,speed 3.227
+label_id,13,confidence,  +88.84,Position,   +7.70,   +0.26,   -0.61,pos_covariance,   +2.37,   +0.08,   -0.19,   +0.00,   -0.01,   +0.02,velocity,   -1.59,   -1.44,   +0.23
+,speed 4.6546
+label_id,14,confidence,  +87.76,Position,   +8.54,   +3.66,   -0.67,pos_covariance,   +3.60,   +1.54,   -0.28,   +0.66,   -0.12,   +0.02,velocity,   -1.21,   -1.53,   +0.07
+,speed 3.8099
+label_id,13,confidence,  +89.51,Position,   +7.11,   -0.28,   -0.62,pos_covariance,   +1.73,   -0.07,   -0.15,   +0.00,   +0.01,   +0.01,velocity,   -1.80,   -1.68,   +0.23
+,speed 6.1153
+label_id,14,confidence,  +85.50,Position,   +7.89,   +2.96,   -0.68,pos_covariance,   +2.61,   +0.98,   -0.22,   +0.37,   -0.08,   +0.02,velocity,   -1.27,   -1.40,   +0.35
+,speed 3.6954
+label_id,13,confidence,  +89.78,Position,   +6.54,   -0.87,   -0.61,pos_covariance,   +1.24,   -0.17,   -0.12,   +0.02,   +0.02,   +0.01,velocity,   -1.77,   -1.66,   -0.18
+,speed 5.9209000000000005
+label_id,14,confidence,  +89.19,Position,   +7.49,   +2.28,   -0.66,pos_covariance,   +2.12,   +0.64,   -0.19,   +0.20,   -0.06,   +0.02,velocity,   -1.27,   -1.68,   -0.21
+,speed 4.4794
+label_id,13,confidence,  +90.47,Position,   +5.87,   -1.29,   -0.60,pos_covariance,   +0.80,   -0.18,   -0.08,   +0.04,   +0.02,   +0.01,velocity,   -1.78,   -1.52,   +0.12
+,speed 5.4932
+label_id,14,confidence,  +89.54,Position,   +7.23,   +1.76,   -0.64,pos_covariance,   +1.84,   +0.45,   -0.16,   +0.11,   -0.04,   +0.01,velocity,   -1.33,   -1.83,   +0.19
+,speed 5.153900000000001
+label_id,13,confidence,  +86.49,Position,   +4.96,   -1.84,   -0.52,pos_covariance,   +0.41,   -0.15,   -0.04,   +0.06,   +0.02,   +0.00,velocity,   -1.94,   -1.53,   +0.21
+,speed 6.1486
+label_id,14,confidence,  +86.01,Position,   +6.79,   +0.97,   -0.50,pos_covariance,   +1.43,   +0.20,   -0.10,   +0.03,   -0.01,   +0.01,velocity,   -1.49,   -1.95,   +0.14
+,speed 6.042199999999999
+label_id,13,confidence,  +89.52,Position,   +4.09,   -2.27,   -0.46,pos_covariance,   +0.19,   -0.11,   -0.02,   +0.06,   +0.01,   +0.00,velocity,   -1.97,   -1.35,   +0.13
+,speed 5.7203
+label_id,14,confidence,  +91.41,Position,   +6.30,   +0.22,   -0.46,pos_covariance,   +1.06,   +0.03,   -0.08,   +0.00,   -0.00,   +0.01,velocity,   -1.68,   -1.91,   +0.07
+,speed 6.4754
+label_id,13,confidence,  +92.77,Position,   +3.34,   -2.57,   -0.45,pos_covariance,   +0.08,   -0.06,   -0.01,   +0.05,   +0.01,   +0.00,velocity,   -2.02,   -1.23,   -0.16
+,speed 5.6189
+label_id,14,confidence,  +91.34,Position,   +5.93,   -0.40,   -0.45,pos_covariance,   +0.83,   -0.06,   -0.06,   +0.00,   +0.00,   +0.01,velocity,   -1.85,   -1.86,   -0.15
+,speed 6.904600000000001
+label_id,13,confidence,  +90.96,Position,   +2.58,   -2.60,   -0.48,pos_covariance,   +0.03,   -0.03,   -0.01,   +0.03,   +0.01,   +0.00,velocity,   -1.59,   -0.86,   +0.01
+,speed 3.2678000000000003
+label_id,14,confidence,  +91.63,Position,   +5.38,   -1.09,   -0.45,pos_covariance,   +0.56,   -0.12,   -0.05,   +0.02,   +0.01,   +0.00,velocity,   -2.06,   -1.73,   -0.06
+,speed 7.240099999999999
+label_id,13,confidence,  +74.78,Position,   +2.04,   -2.43,   -0.51,pos_covariance,   +0.01,   -0.01,   -0.00,   +0.02,   +0.00,   +0.00,velocity,   -1.07,   -0.56,   +0.07
+,speed 1.4634
+label_id,14,confidence,  +90.78,Position,   +4.58,   -1.83,   -0.46,pos_covariance,   +0.29,   -0.12,   -0.03,   +0.05,   +0.01,   +0.00,velocity,   -2.36,   -1.60,   +0.23
+,speed 8.1825
+label_id,14,confidence,  +92.40,Position,   +3.87,   -2.25,   -0.46,pos_covariance,   +0.15,   -0.09,   -0.02,   +0.05,   +0.01,   +0.00,velocity,   -2.41,   -1.34,   -0.06
+,speed 7.6073
+label_id,17,confidence,  +76.97,Position,  +11.58,  +12.20,   -0.97,pos_covariance,  +11.99,  +12.64,   -0.98,  +13.34,   -1.03,   +0.08,velocity,   -4.98,   -7.81,   +1.02
+,speed 86.8369
+label_id,14,confidence,  +84.28,Position,   +2.82,   -2.39,   -0.48,pos_covariance,   +0.04,   -0.03,   -0.01,   +0.03,   +0.01,   +0.00,velocity,   -2.65,   -0.21,   -0.07
+,speed 7.0715
+label_id,17,confidence,  +81.51,Position,  +10.65,   +9.63,   -0.81,pos_covariance,   +8.72,   +7.88,   -0.66,   +7.12,   -0.60,   +0.05,velocity,   -3.72,   -6.92,   +0.23
+,speed 61.7777
+label_id,14,confidence,  +86.49,Position,   +2.02,   -1.84,   -0.51,pos_covariance,   +0.01,   -0.01,   -0.00,   +0.01,   +0.00,   +0.00,velocity,   -2.39,   +0.93,   -0.07
+,speed 6.581900000000001
+label_id,17,confidence,  +82.41,Position,  +10.88,   +8.48,   -0.77,pos_covariance,   +9.81,   +7.58,   -0.71,   +5.86,   -0.55,   +0.05,velocity,   -1.77,   -5.07,   -0.29
+,speed 28.9219
+label_id,14,confidence,  +88.03,Position,   +1.83,   -1.67,   -0.53,pos_covariance,   +0.01,   -0.01,   -0.00,   +0.01,   +0.00,   +0.00,velocity,   -0.96,   +0.85,   -0.19
+,speed 1.6802
+label_id,17,confidence,  +77.01,Position,  +10.91,   +7.43,   -0.73,pos_covariance,   +9.70,   +6.59,   -0.64,   +4.47,   -0.43,   +0.04,velocity,   -1.58,   -3.80,   +0.36
+,speed 17.066
+label_id,18,confidence,  +76.36,Position,   +4.42,   +4.69,   -0.39,pos_covariance,   +0.25,   +0.27,   -0.02,   +0.29,   -0.02,   +0.00,velocity,   -3.22,   -2.46,   +0.38
+,speed 16.564400000000003
+label_id,17,confidence,  +72.92,Position,  +11.06,   +6.77,   -0.70,pos_covariance,  +10.23,   +6.24,   -0.63,   +3.81,   -0.38,   +0.04,velocity,   -1.21,   -2.26,   +0.36
+,speed 6.701299999999999
+label_id,18,confidence,  +76.36,Position,   +3.37,   +4.01,   -0.30,pos_covariance,   +0.09,   +0.10,   -0.01,   +0.12,   -0.01,   +0.00,velocity,   -3.63,   -2.02,   +0.11
+,speed 17.2694
+label_id,17,confidence,  +73.48,Position,  +11.15,   +6.42,   -0.67,pos_covariance,  +10.65,   +6.11,   -0.65,   +3.51,   -0.37,   +0.04,velocity,   -1.23,   -1.38,   -0.32
+,speed 3.5196999999999994
+label_id,18,confidence,  +76.36,Position,   +2.27,   +3.50,   -0.24,pos_covariance,   +0.02,   +0.03,   -0.00,   +0.04,   -0.00,   +0.00,velocity,   -3.81,   -1.63,   +0.25
+,speed 17.2355
+label_id,17,confidence,  +75.02,Position,  +11.06,   +6.34,   -0.67,pos_covariance,  +10.08,   +5.80,   -0.60,   +3.34,   -0.35,   +0.04,velocity,   -1.52,   -0.76,   +0.24
+,speed 2.9455999999999998
+label_id,17,confidence,  +72.18,Position,  +10.98,   +6.35,   -0.65,pos_covariance,   +9.97,   +5.77,   -0.59,   +3.34,   -0.34,   +0.04,velocity,   -1.97,   -0.86,   +0.25
+,speed 4.683
+label_id,19,confidence,  +80.02,Position,  +16.76,   -5.10,   -0.64,pos_covariance,  +53.84,  -16.41,   -2.04,   +5.01,   +0.62,   +0.08,velocity,   +0.15,   -0.94,   +0.21
+,speed 0.9501999999999999
+label_id,20,confidence,  +70.21,Position,  +17.07,  -14.01,   -0.23,pos_covariance,  +57.36,  -47.06,   -0.74,  +38.61,   +0.60,   +0.01,velocity,   -2.20,   -3.33,   +0.40
+,speed 16.088900000000002
+label_id,17,confidence,  +73.89,Position,  +10.37,   +6.35,   -0.71,pos_covariance,   +7.79,   +4.76,   -0.52,   +2.92,   -0.32,   +0.04,velocity,   -1.97,   -0.04,   +0.71
+,speed 4.3866
+label_id,20,confidence,  +80.52,Position,  +16.08,  -13.83,   -0.38,pos_covariance,  +45.73,  -39.56,   -1.06,  +34.22,   +0.92,   +0.03,velocity,   -2.50,   +0.80,   +0.79
+,speed 7.514100000000001
+label_id,19,confidence,  +78.28,Position,  +16.18,   -5.12,   -0.77,pos_covariance,  +46.87,  -14.77,   -2.20,   +4.66,   +0.69,   +0.11,velocity,   -1.07,   +0.02,   +0.87
+,speed 1.9022000000000001
+label_id,17,confidence,  +76.69,Position,   +9.80,   +6.41,   -0.73,pos_covariance,   +6.24,   +4.11,   -0.48,   +2.71,   -0.31,   +0.04,velocity,   -1.98,   +0.21,   -0.29
+,speed 4.0485999999999995
+label_id,19,confidence,  +78.58,Position,  +15.63,   -4.92,   -0.87,pos_covariance,  +40.39,  -12.66,   -2.29,   +3.97,   +0.72,   +0.13,velocity,   -1.33,   +0.45,   -0.77
+,speed 2.5643000000000002
+label_id,20,confidence,  +71.62,Position,  +15.71,  -13.68,   -0.52,pos_covariance,  +41.35,  -35.98,   -1.43,  +31.32,   +1.24,   +0.05,velocity,   -1.82,   +1.04,   -0.90
+,speed 5.204000000000001
+label_id,17,confidence,  +79.71,Position,   +8.94,   +6.64,   -0.73,pos_covariance,   +4.32,   +3.22,   -0.36,   +2.40,   -0.27,   +0.03,velocity,   -2.05,   +0.65,   -0.29
+,speed 4.7091
+label_id,19,confidence,  +80.84,Position,  +14.85,   -4.46,   -0.86,pos_covariance,  +32.93,   -9.86,   -1.87,   +2.96,   +0.56,   +0.11,velocity,   -1.02,   +0.99,   +0.12
+,speed 2.0349000000000004
+label_id,20,confidence,  +77.74,Position,  +15.37,  -13.22,   -0.52,pos_covariance,  +38.17,  -32.79,   -1.20,  +28.16,   +1.03,   +0.04,velocity,   -1.07,   +1.37,   +0.49
+,speed 3.2619000000000002
+label_id,17,confidence,  +86.27,Position,   +8.08,   +6.64,   -0.68,pos_covariance,   +2.89,   +2.38,   -0.23,   +1.96,   -0.19,   +0.02,velocity,   -2.43,   +0.50,   +0.51
+,speed 6.415000000000001
+label_id,19,confidence,  +80.46,Position,  +14.17,   -3.99,   -0.66,pos_covariance,  +27.29,   -7.65,   -1.24,   +2.15,   +0.35,   +0.06,velocity,   -0.84,   +1.07,   +0.37
+,speed 1.9873999999999998
+label_id,20,confidence,  +80.76,Position,  +15.19,  -12.81,   -0.27,pos_covariance,  +36.02,  -30.38,   -0.61,  +25.62,   +0.52,   +0.01,velocity,   -0.93,   +1.41,   +0.17
+,speed 2.8819
+label_id,17,confidence,  +88.10,Position,   +7.44,   +6.78,   -0.55,pos_covariance,   +2.06,   +1.89,   -0.15,   +1.73,   -0.14,   +0.01,velocity,   -2.58,   +0.61,   +0.29
+,speed 7.1126000000000005
+label_id,19,confidence,  +82.30,Position,  +13.64,   -3.64,   -0.57,pos_covariance,  +23.45,   -6.24,   -0.96,   +1.66,   +0.25,   +0.04,velocity,   -0.77,   +1.29,   +0.17
+,speed 2.2859000000000003
+label_id,20,confidence,  +74.86,Position,  +15.02,  -12.40,   -0.24,pos_covariance,  +34.62,  -28.55,   -0.53,  +23.55,   +0.44,   +0.01,velocity,   -0.68,   +1.65,   +0.03
+,speed 3.1858
+label_id,17,confidence,  +89.40,Position,   +7.04,   +7.03,   -0.50,pos_covariance,   +1.67,   +1.67,   -0.12,   +1.68,   -0.12,   +0.01,velocity,   -2.71,   +0.33,   -0.15
+,speed 7.4755
+label_id,19,confidence,  +78.76,Position,  +12.96,   -3.13,   -0.43,pos_covariance,  +19.12,   -4.60,   -0.61,   +1.11,   +0.15,   +0.02,velocity,   -0.81,   +1.02,   +0.45
+,speed 1.899
+label_id,20,confidence,  +83.95,Position,  +14.90,  -12.07,   -0.06,pos_covariance,  +33.30,  -26.98,   -0.07,  +21.86,   +0.06,   +0.00,velocity,   -0.80,   +1.34,   +0.94
+,speed 3.3192000000000004
+label_id,17,confidence,  +88.37,Position,   +7.05,   +7.39,   -0.54,pos_covariance,   +1.70,   +1.78,   -0.13,   +1.87,   -0.13,   +0.01,velocity,   -3.50,   -0.30,   +0.60
+,speed 12.7
+label_id,19,confidence,  +83.44,Position,  +12.02,   -2.50,   -0.43,pos_covariance,  +14.12,   -2.93,   -0.54,   +0.61,   +0.11,   +0.02,velocity,   -0.74,   +0.73,   -0.34
+,speed 1.1960999999999997
+label_id,20,confidence,  +85.42,Position,  +14.60,  -11.57,   -0.07,pos_covariance,  +30.79,  -24.39,   -0.24,  +19.32,   +0.19,   +0.00,velocity,   -1.04,   +1.04,   -1.09
+,speed 3.3513
+label_id,17,confidence,  +72.44,Position,   +7.28,   +7.91,   -0.58,pos_covariance,   +1.94,   +2.10,   -0.16,   +2.29,   -0.17,   +0.01,velocity,   +0.09,   +1.11,   -0.58
+,speed 1.5766000000000002
+label_id,19,confidence,  +84.41,Position,  +11.46,   -2.19,   -0.55,pos_covariance,  +11.67,   -2.22,   -0.58,   +0.42,   +0.11,   +0.03,velocity,   -0.80,   +0.81,   -0.74
+,speed 1.8437000000000001
+label_id,20,confidence,  +85.39,Position,  +14.28,  -11.08,   -0.27,pos_covariance,  +28.11,  -21.81,   -0.57,  +16.92,   +0.44,   +0.01,velocity,   -1.07,   +1.29,   -0.86
+,speed 3.5486
+label_id,17,confidence,  +71.45,Position,   +7.41,   +8.44,   -0.67,pos_covariance,   +2.06,   +2.35,   -0.19,   +2.67,   -0.22,   +0.02,velocity,   +0.21,   +1.31,   -0.14
+,speed 1.7798000000000003
+label_id,19,confidence,  +88.81,Position,  +11.09,   -1.90,   -0.68,pos_covariance,  +10.28,   -1.75,   -0.65,   +0.30,   +0.11,   +0.04,velocity,   -1.26,   +0.78,   -0.30
+,speed 2.286
+label_id,20,confidence,  +84.97,Position,  +13.74,  -10.52,   -0.47,pos_covariance,  +24.15,  -18.48,   -0.85,  +14.15,   +0.65,   +0.03,velocity,   -1.32,   +1.28,   -0.50
+,speed 3.6308000000000002
+label_id,17,confidence,  +71.45,Position,   +7.43,   +8.91,   -0.72,pos_covariance,   +2.08,   +2.50,   -0.21,   +3.00,   -0.25,   +0.02,velocity,   -0.08,   +1.57,   -0.06
+,speed 2.4749000000000003
+label_id,19,confidence,  +89.03,Position,  +10.91,   -1.65,   -0.72,pos_covariance,   +9.62,   -1.44,   -0.63,   +0.22,   +0.09,   +0.04,velocity,   -1.24,   +1.06,   +0.14
+,speed 2.6808
+label_id,20,confidence,  +86.35,Position,  +13.60,  -10.23,   -0.51,pos_covariance,  +23.23,  -17.46,   -0.84,  +13.12,   +0.63,   +0.03,velocity,   -0.86,   +1.45,   +0.22
+,speed 2.8905
+label_id,19,confidence,  +88.86,Position,  +10.50,   -1.29,   -0.61,pos_covariance,   +8.21,   -1.00,   -0.46,   +0.12,   +0.06,   +0.03,velocity,   -1.27,   +1.09,   +0.36
+,speed 2.9306
+label_id,20,confidence,  +86.14,Position,  +13.21,   -9.71,   -0.39,pos_covariance,  +20.66,  -15.17,   -0.58,  +11.14,   +0.42,   +0.02,velocity,   -0.92,   +1.55,   +0.39
+,speed 3.4010000000000002
+label_id,19,confidence,  +87.09,Position,  +10.07,   -0.86,   -0.59,pos_covariance,   +6.95,   -0.58,   -0.41,   +0.05,   +0.03,   +0.03,velocity,   -1.31,   +1.20,   -0.08
+,speed 3.1625000000000005
+label_id,20,confidence,  +86.14,Position,  +12.95,   -9.21,   -0.38,pos_covariance,  +19.08,  -13.55,   -0.59,   +9.62,   +0.42,   +0.02,velocity,   -0.83,   +1.71,   -0.24
+,speed 3.6705999999999994
+label_id,19,confidence,  +86.58,Position,   +9.57,   -0.43,   -0.57,pos_covariance,   +5.67,   -0.24,   -0.33,   +0.01,   +0.01,   +0.02,velocity,   -1.38,   +1.37,   +0.22
+,speed 3.8297
+label_id,20,confidence,  +88.22,Position,  +12.77,   -8.67,   -0.47,pos_covariance,  +18.04,  -12.23,   -0.66,   +8.30,   +0.45,   +0.03,velocity,   -0.62,   +1.92,   +0.20
+,speed 4.1108
+label_id,19,confidence,  +87.38,Position,   +9.13,   -0.04,   -0.54,pos_covariance,   +4.70,   -0.01,   -0.27,   +0.00,   +0.00,   +0.02,velocity,   -1.52,   +1.31,   +0.01
+,speed 4.0266
+label_id,20,confidence,  +84.37,Position,  +12.51,   -8.11,   -0.40,pos_covariance,  +16.57,  -10.73,   -0.51,   +6.96,   +0.33,   +0.02,velocity,   -0.83,   +1.93,   +0.17
+,speed 4.4427
+label_id,19,confidence,  +85.28,Position,   +8.46,   +0.61,   -0.43,pos_covariance,   +3.46,   +0.26,   -0.17,   +0.02,   -0.01,   +0.01,velocity,   -1.58,   +1.33,   +0.38
+,speed 4.409700000000001
+label_id,20,confidence,  +87.82,Position,  +12.10,   -7.27,   -0.13,pos_covariance,  +14.49,   -8.70,   -0.14,   +5.23,   +0.08,   +0.00,velocity,   -0.97,   +2.05,   +0.60
+,speed 5.5034
+label_id,19,confidence,  +85.78,Position,   +7.88,   +1.09,   -0.40,pos_covariance,   +2.60,   +0.37,   -0.14,   +0.05,   -0.02,   +0.01,velocity,   -1.64,   +1.24,   -0.29
+,speed 4.3113
+label_id,20,confidence,  +87.68,Position,  +11.77,   -6.56,   -0.25,pos_covariance,  +13.01,   -7.25,   -0.31,   +4.04,   +0.17,   +0.01,velocity,   -1.02,   +2.03,   -0.76
+,speed 5.738899999999999
+label_id,19,confidence,  +85.33,Position,   +7.38,   +1.49,   -0.42,pos_covariance,   +2.00,   +0.41,   -0.12,   +0.08,   -0.02,   +0.01,velocity,   -1.62,   +1.28,   -0.14
+,speed 4.2824
+label_id,20,confidence,  +85.44,Position,  +11.58,   -6.06,   -0.32,pos_covariance,  +12.15,   -6.36,   -0.34,   +3.33,   +0.18,   +0.01,velocity,   -0.91,   +2.11,   +0.28
+,speed 5.3586
+label_id,19,confidence,  +82.78,Position,   +6.73,   +1.97,   -0.49,pos_covariance,   +1.38,   +0.41,   -0.10,   +0.12,   -0.03,   +0.01,velocity,   -1.67,   +0.98,   -0.24
+,speed 3.8068999999999997
+label_id,20,confidence,  +86.77,Position,  +11.23,   -5.39,   -0.35,pos_covariance,  +10.73,   -5.15,   -0.35,   +2.47,   +0.17,   +0.01,velocity,   -1.33,   +1.73,   -0.77
+,speed 5.3547
+label_id,19,confidence,  +82.37,Position,   +5.54,   +2.48,   -0.44,pos_covariance,   +0.63,   +0.29,   -0.05,   +0.13,   -0.02,   +0.00,velocity,   -1.33,   +1.01,   -0.39
+,speed 2.9411
+label_id,20,confidence,  +85.75,Position,  +10.86,   -4.57,   -0.33,pos_covariance,   +9.44,   -3.96,   -0.30,   +1.66,   +0.12,   +0.01,velocity,   -1.13,   +2.07,   -0.38
+,speed 5.706199999999999
+label_id,19,confidence,  +87.75,Position,   +4.51,   +2.62,   -0.45,pos_covariance,   +0.28,   +0.16,   -0.03,   +0.10,   -0.02,   +0.00,velocity,   -0.69,   +0.67,   -0.09
+,speed 0.9331
+label_id,20,confidence,  +87.30,Position,  +10.54,   -4.06,   -0.46,pos_covariance,   +8.36,   -3.22,   -0.39,   +1.24,   +0.15,   +0.02,velocity,   -1.20,   +1.89,   -1.36
+,speed 6.861700000000001
+label_id,19,confidence,  +89.42,Position,   +3.79,   +2.71,   -0.44,pos_covariance,   +0.14,   +0.10,   -0.02,   +0.07,   -0.01,   +0.00,velocity,   -1.27,   +0.80,   -0.05
+,speed 2.2554000000000003
+label_id,20,confidence,  +89.20,Position,  +10.26,   -3.39,   -0.67,pos_covariance,   +7.50,   -2.47,   -0.49,   +0.81,   +0.16,   +0.03,velocity,   -1.05,   +2.22,   +0.21
+,speed 6.075000000000001
+label_id,19,confidence,  +90.44,Position,   +3.35,   +2.44,   -0.46,pos_covariance,   +0.09,   +0.06,   -0.01,   +0.04,   -0.01,   +0.00,velocity,   -0.72,   +0.56,   +0.19
+,speed 0.8681000000000001
+label_id,20,confidence,  +89.99,Position,   +9.67,   -2.77,   -0.64,pos_covariance,   +5.89,   -1.68,   -0.38,   +0.48,   +0.11,   +0.03,velocity,   -1.45,   +2.05,   +0.58
+,speed 6.6414
+label_id,19,confidence,  +89.81,Position,   +3.27,   +2.39,   -0.47,pos_covariance,   +0.08,   +0.06,   -0.01,   +0.04,   -0.01,   +0.00,velocity,   -0.39,   +0.60,   +0.06
+,speed 0.5157
+label_id,20,confidence,  +90.20,Position,   +9.19,   -2.19,   -0.55,pos_covariance,   +4.83,   -1.14,   -0.28,   +0.27,   +0.07,   +0.02,velocity,   -1.50,   +2.39,   -0.03
+,speed 7.963
+label_id,19,confidence,  +87.63,Position,   +3.01,   +2.41,   -0.39,pos_covariance,   +0.05,   +0.04,   -0.01,   +0.04,   -0.01,   +0.00,velocity,   -0.49,   +0.48,   -0.10
+,speed 0.4805
+label_id,20,confidence,  +86.90,Position,   +8.52,   -1.41,   -0.37,pos_covariance,   +3.56,   -0.58,   -0.15,   +0.10,   +0.03,   +0.01,velocity,   -1.75,   +1.95,   -0.06
+,speed 6.8686
+label_id,19,confidence,  +79.69,Position,   +2.77,   +2.50,   -0.42,pos_covariance,   +0.04,   +0.04,   -0.01,   +0.03,   -0.01,   +0.00,velocity,   -0.67,   +0.51,   +0.10
+,speed 0.7190000000000001
+label_id,20,confidence,  +87.50,Position,   +8.02,   -0.80,   -0.40,pos_covariance,   +2.80,   -0.27,   -0.14,   +0.03,   +0.01,   +0.01,velocity,   -1.72,   +1.78,   +0.08
+,speed 6.1331999999999995
+label_id,19,confidence,  +77.72,Position,   +2.49,   +2.49,   -0.42,pos_covariance,   +0.03,   +0.03,   -0.00,   +0.03,   -0.00,   +0.00,velocity,   -0.76,   +0.49,   -0.02
+,speed 0.8180999999999999
+label_id,20,confidence,  +88.84,Position,   +7.63,   -0.34,   -0.38,pos_covariance,   +2.30,   -0.10,   -0.11,   +0.00,   +0.00,   +0.01,velocity,   -1.70,   +1.66,   +0.07
+,speed 5.6505
+label_id,19,confidence,  +77.72,Position,   +2.20,   +2.50,   -0.43,pos_covariance,   +0.02,   +0.02,   -0.00,   +0.02,   -0.00,   +0.00,velocity,   -0.69,   +0.37,   +0.02
+,speed 0.6133999999999998
+label_id,20,confidence,  +88.83,Position,   +6.99,   +0.19,   -0.38,pos_covariance,   +1.61,   +0.05,   -0.09,   +0.00,   -0.00,   +0.01,velocity,   -1.80,   +1.50,   -0.07
+,speed 5.4949
+label_id,20,confidence,  +88.74,Position,   +6.43,   +0.68,   -0.40,pos_covariance,   +1.16,   +0.12,   -0.07,   +0.01,   -0.01,   +0.00,velocity,   -1.76,   +1.40,   +0.06
+,speed 5.0611999999999995
+label_id,20,confidence,  +90.03,Position,   +5.85,   +1.04,   -0.41,pos_covariance,   +0.79,   +0.14,   -0.06,   +0.03,   -0.01,   +0.00,velocity,   -1.93,   +1.34,   -0.02
+,speed 5.5209
+label_id,20,confidence,  +87.94,Position,   +4.99,   +1.41,   -0.42,pos_covariance,   +0.42,   +0.12,   -0.04,   +0.03,   -0.01,   +0.00,velocity,   -2.01,   +1.04,   +0.17
+,speed 5.150599999999999
+label_id,20,confidence,  +91.07,Position,   +4.26,   +1.67,   -0.41,pos_covariance,   +0.22,   +0.09,   -0.02,   +0.04,   -0.01,   +0.00,velocity,   -2.08,   +0.99,   +0.03
+,speed 5.3074
+label_id,20,confidence,  +90.27,Position,   +3.72,   +1.80,   -0.41,pos_covariance,   +0.13,   +0.06,   -0.01,   +0.03,   -0.01,   +0.00,velocity,   -2.20,   +1.02,   -0.03
+,speed 5.8813
+label_id,20,confidence,  +92.88,Position,   +2.91,   +1.94,   -0.40,pos_covariance,   +0.05,   +0.03,   -0.01,   +0.02,   -0.00,   +0.00,velocity,   -2.19,   +0.93,   -0.01
+,speed 5.6611
+label_id,20,confidence,  +93.54,Position,   +2.36,   +1.81,   -0.41,pos_covariance,   +0.02,   +0.02,   -0.00,   +0.01,   -0.00,   +0.00,velocity,   -2.34,   +1.01,   +0.08
+,speed 6.5020999999999995
+label_id,20,confidence,  +93.00,Position,   +2.10,   +1.58,   -0.41,pos_covariance,   +0.01,   +0.01,   -0.00,   +0.01,   -0.00,   +0.00,velocity,   -2.68,   +1.31,   +0.06
+,speed 8.902100000000003
+label_id,20,confidence,  +90.94,Position,   +1.99,   +1.51,   -0.43,pos_covariance,   +0.01,   +0.01,   -0.00,   +0.01,   -0.00,   +0.00,velocity,   -2.78,   +1.49,   +0.01
+,speed 9.948599999999999
+label_id,20,confidence,  +89.30,Position,   +2.13,   +1.66,   -0.47,pos_covariance,   +0.01,   +0.01,   -0.00,   +0.01,   -0.00,   +0.00,velocity,   +0.24,   +0.11,   -0.08
+,speed 0.0761
+label_id,20,confidence,  +90.47,Position,   +2.12,   +1.81,   -0.50,pos_covariance,   +0.01,   +0.01,   -0.00,   +0.01,   -0.00,   +0.00,velocity,   +0.10,   +0.16,   +0.04
+,speed 0.037200000000000004
+label_id,20,confidence,  +91.58,Position,   +2.07,   +1.87,   -0.52,pos_covariance,   +0.01,   +0.01,   -0.00,   +0.01,   -0.00,   +0.00,velocity,   -0.16,   +0.14,   -0.13
+,speed 0.0621
+label_id,20,confidence,  +77.60,Position,   +1.95,   +1.92,   -0.53,pos_covariance,   +0.01,   +0.01,   -0.00,   +0.01,   -0.00,   +0.00,velocity,   -0.29,   +0.16,   -0.05
+,speed 0.1122
+label_id,20,confidence,  +73.28,Position,   +1.86,   +1.99,   -0.55,pos_covariance,   +0.01,   +0.01,   -0.00,   +0.01,   -0.00,   +0.00,velocity,   -0.28,   +0.17,   -0.03
+,speed 0.10820000000000002
+label_id,21,confidence,  +74.35,Position,  +16.72,   -3.43,   -0.80,pos_covariance,  +53.80,  -11.06,   -2.66,   +2.28,   +0.55,   +0.13,velocity,   +0.47,   -0.56,   -0.87
+,speed 1.2913999999999999
+label_id,21,confidence,  +78.67,Position,  +16.15,   -3.39,   -0.80,pos_covariance,  +46.13,   -9.60,   -2.25,   +2.00,   +0.47,   +0.11,velocity,   -1.06,   +0.16,   +0.11
+,speed 1.1613000000000002
+label_id,21,confidence,  +75.96,Position,  +15.69,   -3.31,   -0.71,pos_covariance,  +41.02,   -8.67,   -1.79,   +1.84,   +0.38,   +0.08,velocity,   -1.09,   -0.15,   +0.63
+,speed 1.6075000000000002
+label_id,21,confidence,  +80.58,Position,  +15.58,   -3.36,   -0.70,pos_covariance,  +40.42,   -8.76,   -1.85,   +1.90,   +0.40,   +0.09,velocity,   -0.78,   -0.22,   -0.02
+,speed 0.6572
+label_id,21,confidence,  +77.82,Position,  +14.94,   -3.33,   -0.69,pos_covariance,  +33.73,   -7.47,   -1.57,   +1.66,   +0.35,   +0.08,velocity,   -1.31,   -0.03,   -0.17
+,speed 1.7459
+label_id,21,confidence,  +79.81,Position,  +14.01,   -3.21,   -0.67,pos_covariance,  +26.11,   -5.96,   -1.21,   +1.36,   +0.28,   +0.06,velocity,   -1.74,   -0.06,   +0.24
+,speed 3.0888
+label_id,21,confidence,  +78.95,Position,  +13.25,   -3.13,   -0.65,pos_covariance,  +20.87,   -4.92,   -1.02,   +1.16,   +0.24,   +0.05,velocity,   -1.89,   +0.08,   +0.04
+,speed 3.5801
+label_id,21,confidence,  +80.11,Position,  +12.76,   -3.10,   -0.61,pos_covariance,  +17.92,   -4.36,   -0.83,   +1.06,   +0.20,   +0.04,velocity,   -1.95,   -0.10,   +0.38
+,speed 3.9568999999999996
+label_id,21,confidence,  +77.67,Position,  +11.93,   -3.08,   -0.56,pos_covariance,  +13.71,   -3.55,   -0.62,   +0.92,   +0.16,   +0.03,velocity,   -1.82,   -0.01,   +0.27
+,speed 3.3854000000000006
+label_id,21,confidence,  +77.22,Position,  +11.13,   -3.08,   -0.51,pos_covariance,  +10.39,   -2.88,   -0.46,   +0.80,   +0.13,   +0.02,velocity,   -1.89,   +0.12,   +0.34
+,speed 3.7021
+label_id,21,confidence,  +77.72,Position,  +10.64,   -3.08,   -0.49,pos_covariance,   +8.68,   -2.52,   -0.39,   +0.73,   +0.11,   +0.02,velocity,   -1.80,   +0.02,   +0.09
+,speed 3.2485000000000004
+label_id,21,confidence,  +74.80,Position,  +10.14,   -3.14,   -0.46,pos_covariance,   +7.14,   -2.23,   -0.32,   +0.70,   +0.10,   +0.02,velocity,   -1.78,   -0.04,   -0.18
+,speed 3.2024
+label_id,21,confidence,  +86.47,Position,   +9.39,   -3.11,   -0.49,pos_covariance,   +5.26,   -1.73,   -0.29,   +0.57,   +0.09,   +0.02,velocity,   -2.01,   +0.12,   -0.29
+,speed 4.138599999999999
+label_id,21,confidence,  +84.68,Position,   +8.50,   -2.99,   -0.51,pos_covariance,   +3.53,   -1.24,   -0.22,   +0.44,   +0.08,   +0.01,velocity,   -1.99,   -0.10,   -0.08
+,speed 3.9765
+label_id,21,confidence,  +76.49,Position,   +7.84,   -2.96,   -0.52,pos_covariance,   +2.56,   -0.96,   -0.18,   +0.36,   +0.07,   +0.01,velocity,   -1.91,   +0.10,   -0.41
+,speed 3.8261999999999996
+label_id,21,confidence,  +83.83,Position,   +7.20,   -2.97,   -0.55,pos_covariance,   +1.82,   -0.76,   -0.15,   +0.31,   +0.06,   +0.01,velocity,   -2.03,   +0.18,   -0.25
+,speed 4.215799999999999
+label_id,21,confidence,  +85.31,Position,   +6.49,   -2.95,   -0.61,pos_covariance,   +1.20,   -0.54,   -0.11,   +0.25,   +0.05,   +0.01,velocity,   -2.15,   -0.05,   +0.39
+,speed 4.7771
+label_id,21,confidence,  +83.73,Position,   +5.74,   -2.90,   -0.53,pos_covariance,   +0.73,   -0.37,   -0.07,   +0.19,   +0.03,   +0.01,velocity,   -2.01,   -0.01,   +0.11
+,speed 4.052299999999999
+label_id,21,confidence,  +88.17,Position,   +4.82,   -2.84,   -0.52,pos_covariance,   +0.36,   -0.21,   -0.04,   +0.13,   +0.02,   +0.00,velocity,   -2.04,   +0.01,   +0.34
+,speed 4.277299999999999
+label_id,21,confidence,  +90.44,Position,   +3.95,   -2.76,   -0.45,pos_covariance,   +0.16,   -0.11,   -0.02,   +0.08,   +0.01,   +0.00,velocity,   -1.86,   +0.09,   +0.04
+,speed 3.4693000000000005
+label_id,21,confidence,  +89.87,Position,   +3.33,   -2.59,   -0.43,pos_covariance,   +0.08,   -0.06,   -0.01,   +0.05,   +0.01,   +0.00,velocity,   -1.80,   +0.04,   +0.15
+,speed 3.2641
+label_id,21,confidence,  +90.41,Position,   +2.70,   -2.16,   -0.41,pos_covariance,   +0.04,   -0.03,   -0.01,   +0.02,   +0.00,   +0.00,velocity,   -1.44,   -0.15,   +0.02
+,speed 2.0965
+label_id,21,confidence,  +89.74,Position,   +2.25,   -1.75,   -0.40,pos_covariance,   +0.02,   -0.01,   -0.00,   +0.01,   +0.00,   +0.00,velocity,   -1.02,   -0.19,   +0.06
+,speed 1.0801
+label_id,22,confidence,  +71.37,Position,  +11.75,   +2.79,   -0.34,pos_covariance,  +12.91,   +3.08,   -0.36,   +0.74,   -0.09,   +0.01,velocity,   -2.19,   -0.28,   +0.53
+,speed 5.1554
+label_id,21,confidence,  +90.55,Position,   +2.04,   -1.57,   -0.39,pos_covariance,   +0.01,   -0.01,   -0.00,   +0.01,   +0.00,   +0.00,velocity,   -0.86,   -0.23,   +0.01
+,speed 0.7926
+label_id,22,confidence,  +71.37,Position,  +11.27,   +2.94,   -0.23,pos_covariance,  +10.91,   +2.87,   -0.24,   +0.75,   -0.06,   +0.01,velocity,   -2.19,   -0.27,   -0.35
+,speed 4.991499999999999
+label_id,21,confidence,  +85.19,Position,   +1.97,   -1.53,   -0.40,pos_covariance,   +0.01,   -0.01,   -0.00,   +0.01,   +0.00,   +0.00,velocity,   -0.40,   -0.35,   +0.00
+,speed 0.28250000000000003
+label_id,22,confidence,  +71.37,Position,  +10.67,   +3.15,   -0.36,pos_covariance,   +8.78,   +2.60,   -0.30,   +0.77,   -0.09,   +0.01,velocity,   -2.16,   -0.21,   -0.14
+,speed 4.7293
+label_id,21,confidence,  +79.33,Position,   +1.96,   -1.57,   -0.41,pos_covariance,   +0.01,   -0.01,   -0.00,   +0.01,   +0.00,   +0.00,velocity,   -0.30,   +0.03,   -0.09
+,speed 0.09899999999999999
+label_id,22,confidence,  +71.37,Position,  +10.14,   +3.32,   -0.43,pos_covariance,   +7.17,   +2.35,   -0.31,   +0.77,   -0.10,   +0.02,velocity,   -2.14,   -0.47,   -0.24
+,speed 4.8581
+label_id,21,confidence,  +89.87,Position,   +1.86,   -1.63,   -0.41,pos_covariance,   +0.01,   -0.01,   -0.00,   +0.01,   +0.00,   +0.00,velocity,   -0.37,   -0.02,   +0.11
+,speed 0.1494
+label_id,22,confidence,  +71.37,Position,   +9.71,   +3.41,   -0.47,pos_covariance,   +6.01,   +2.12,   -0.28,   +0.75,   -0.10,   +0.01,velocity,   -2.05,   -0.32,   +0.21
+,speed 4.349
+label_id,21,confidence,  +78.00,Position,   +1.65,   -1.61,   -0.39,pos_covariance,   +0.00,   -0.00,   -0.00,   +0.00,   +0.00,   +0.00,velocity,   -0.69,   +0.00,   +0.09
+,speed 0.4841999999999999
+label_id,23,confidence,  +71.48,Position,   +5.62,   -3.59,   +1.48,pos_covariance,   +0.69,   -0.44,   +0.18,   +0.28,   -0.12,   +0.05,velocity,   +0.43,   -0.74,   +0.27
+,speed 0.8053999999999999
+label_id,22,confidence,  +74.76,Position,   +8.70,   +3.22,   -0.40,pos_covariance,   +3.89,   +1.43,   -0.17,   +0.53,   -0.06,   +0.01,velocity,   -2.10,   -0.16,   +0.18
+,speed 4.468
+label_id,23,confidence,  +71.48,Position,   +5.85,   -3.96,   +1.53,pos_covariance,   +0.80,   -0.54,   +0.21,   +0.37,   -0.14,   +0.05,velocity,   +0.67,   -0.89,   +0.07
+,speed 1.2459
+label_id,22,confidence,  +74.76,Position,   +8.06,   +3.14,   -0.25,pos_covariance,   +2.86,   +1.11,   -0.09,   +0.43,   -0.03,   +0.00,velocity,   -1.90,   -0.24,   -0.00
+,speed 3.6675999999999997
+label_id,23,confidence,  +71.48,Position,   +6.05,   -4.18,   +1.53,pos_covariance,   +0.92,   -0.63,   +0.23,   +0.44,   -0.16,   +0.06,velocity,   +0.88,   -1.03,   -0.54
+,speed 2.1269
+label_id,22,confidence,  +74.76,Position,   +7.61,   +3.12,   -0.36,pos_covariance,   +2.27,   +0.93,   -0.12,   +0.38,   -0.05,   +0.01,velocity,   -1.73,   -0.40,   -0.82
+,speed 3.8253000000000004
+label_id,23,confidence,  +71.48,Position,   +6.41,   -4.50,   +1.49,pos_covariance,   +1.15,   -0.81,   +0.27,   +0.57,   -0.19,   +0.06,velocity,   +1.20,   -0.64,   -0.80
+,speed 2.4896000000000003
+label_id,22,confidence,  +74.76,Position,   +6.95,   +3.11,   -0.45,pos_covariance,   +1.57,   +0.71,   -0.11,   +0.32,   -0.05,   +0.01,velocity,   -1.89,   +0.09,   -0.90
+,speed 4.3902
+label_id,22,confidence,  +71.57,Position,   +6.50,   +3.13,   -0.42,pos_covariance,   +1.21,   +0.58,   -0.07,   +0.28,   -0.03,   +0.00,velocity,   -1.59,   -0.40,   +0.51
+,speed 2.9482000000000004
+label_id,23,confidence,  +71.48,Position,   +6.67,   -4.82,   +1.56,pos_covariance,   +1.35,   -0.97,   +0.32,   +0.70,   -0.23,   +0.07,velocity,   +0.50,   -0.93,   +1.16
+,speed 2.4604999999999997
+label_id,22,confidence,  +71.57,Position,   +6.10,   +3.15,   -0.32,pos_covariance,   +0.94,   +0.49,   -0.05,   +0.25,   -0.03,   +0.00,velocity,   -1.56,   -0.31,   -0.27
+,speed 2.6026000000000002
+label_id,23,confidence,  +71.48,Position,   +6.88,   -5.01,   +1.76,pos_covariance,   +1.53,   -1.11,   +0.39,   +0.81,   -0.28,   +0.10,velocity,   +1.00,   -1.08,   -0.51
+,speed 2.4265000000000003
+label_id,22,confidence,  +71.57,Position,   +5.64,   +3.17,   -0.38,pos_covariance,   +0.68,   +0.39,   -0.05,   +0.22,   -0.03,   +0.00,velocity,   -1.47,   -0.27,   -0.36
+,speed 2.3634
+label_id,23,confidence,  +71.48,Position,   +7.23,   -5.29,   +1.76,pos_covariance,   +1.86,   -1.36,   +0.45,   +1.00,   -0.33,   +0.11,velocity,   +1.08,   -1.03,   -0.49
+,speed 2.4674
+label_id,22,confidence,  +71.57,Position,   +5.25,   +3.18,   -0.37,pos_covariance,   +0.51,   +0.31,   -0.03,   +0.19,   -0.02,   +0.00,velocity,   -1.55,   -0.28,   +0.13
+,speed 2.4978000000000002
+label_id,23,confidence,  +71.48,Position,   +7.51,   -5.57,   +1.82,pos_covariance,   +2.18,   -1.62,   +0.53,   +1.20,   -0.39,   +0.13,velocity,   +0.82,   -1.06,   +0.18
+,speed 1.8284
+label_id,22,confidence,  +71.57,Position,   +4.91,   +3.18,   -0.37,pos_covariance,   +0.39,   +0.25,   -0.03,   +0.16,   -0.02,   +0.00,velocity,   -1.46,   -0.34,   -0.13
+,speed 2.2641
+label_id,22,confidence,  +79.62,Position,   +4.09,   +2.94,   -0.31,pos_covariance,   +0.19,   +0.14,   -0.01,   +0.10,   -0.01,   +0.00,velocity,   -1.32,   -0.27,   -0.07
+,speed 1.8202
+label_id,22,confidence,  +77.41,Position,   +3.52,   +2.89,   -0.29,pos_covariance,   +0.10,   +0.08,   -0.01,   +0.07,   -0.01,   +0.00,velocity,   -1.57,   -0.28,   +0.12
+,speed 2.5577
+label_id, 1,confidence,  +70.09,Position,  +17.29,   +0.53,   -0.65,pos_covariance,  +60.48,   +1.74,   -2.30,   +0.05,   -0.07,   +0.09,velocity,   -2.31,   -1.62,   -0.26
+,speed 8.0281
